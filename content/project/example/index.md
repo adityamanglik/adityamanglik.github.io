@@ -1,9 +1,9 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Courses
+summary: List of courses over the years
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - learning
+date: '2022-10-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -29,13 +29,37 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+## Courses Completed ([Certificates available on LinkedIn](https://www.linkedin.com/in/adityamanglik/))
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+* [Algorithms (Coursera)](https://www.coursera.org/learn/algorithmic-toolbox) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+* [Data Structures (Coursera)](https://www.coursera.org/learn/data-structures) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+* [Graph Algorithms (Coursera)](https://www.coursera.org/learn/algorithms-on-graphs) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+* [String Algorithms (Coursera)](https://www.coursera.org/learn/algorithms-on-strings) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+* [Advanced Algorithms and Analysis (Coursera)](https://www.coursera.org/learn/advanced-algorithms-and-complexity) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
+
+## Machine Learning
+
+I feel ML and AI represent tremendous potential for all future possibilities. However, it is critical that we treat the biology-inspired algorithms in a way that nature handles and processes them. There is a critical need to design new systems of the future which can handle the enourmous computation power needed to run these algorithms. I wish to be the master of the same.
+
+* [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning) - [Code Repository](https://github.com/adityamanglik/ml-coursera-python-assignments)
+
+* [Deep Learning Specialization by Andrew Ng (Coursera)](https://www.coursera.org/specializations/deep-learning)
+  * Neural Networks and Deep Learning - [Code Repository](https://github.com/adityamanglik/Deep-Learning-Courses/tree/master/Deep%20Learning%20Specialization%20-%20Andrew%20Ng/Course%201)
+  * Improving Deep Neural Networks: Hyperparameter tuning, regularization and optimization - [Code Repository](https://github.com/adityamanglik/Deep-Learning-Courses/tree/master/Deep%20Learning%20Specialization%20-%20Andrew%20Ng/Course%202)
+  * Structuring Machine Learning projects - [Code Repository](https://github.com/adityamanglik/Deep-Learning-Courses)
+
+* [Deep Learning by Geoffrey Hinton (Coursera)](https://www.coursera.org/instructor/~831097) - [Code Repository](https://github.com/adityamanglik/ml-coursera-python-assignments)
+
+* [Machine Learning A-Z (Udemy)](https://www.udemy.com/course/machinelearning/) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/tree/master/Machine%20Learning/Sklearn%20Implementations)
+
+* [Python and Numpy stack (Udemy)](https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/)
+
+## Kaggle Competitions
+
+* [Titanic challenge](/post/first-kaggle-competition/) - [Kaggle Notebook](https://www.kaggle.com/carpediemed/kernel62281fa024)
+
+* Cats vs Dogs - [Kaggle Notebook](https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020)
