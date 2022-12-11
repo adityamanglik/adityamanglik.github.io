@@ -1,15 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>adityamanglik.github.io</title><link>https://adityamanglik.github.io/</link><atom:link href="https://adityamanglik.github.io/index.xml" rel="self" type="application/rss+xml"/><description>adityamanglik.github.io</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://adityamanglik.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>adityamanglik.github.io</title><link>https://adityamanglik.github.io/</link></image><item><title>Example Talk</title><link>https://adityamanglik.github.io/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
-&lt;/div>
-&lt;/div>
-&lt;p>Slides can be added in a few ways:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
-&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>Courses</title><link>https://adityamanglik.github.io/project/course_log/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/course_log/</guid><description>&lt;h2 id="courses-completed-certificates-available-on-linkedinhttpswwwlinkedincominadityamanglik">Courses Completed (&lt;a href="https://www.linkedin.com/in/adityamanglik/" target="_blank" rel="noopener">Certificates available on LinkedIn&lt;/a>)&lt;/h2>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>adityamanglik.github.io</title><link>https://adityamanglik.github.io/</link><atom:link href="https://adityamanglik.github.io/index.xml" rel="self" type="application/rss+xml"/><description>adityamanglik.github.io</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate><image><url>https://adityamanglik.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>adityamanglik.github.io</title><link>https://adityamanglik.github.io/</link></image><item><title>Courses</title><link>https://adityamanglik.github.io/project/course_log/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/course_log/</guid><description>&lt;h2 id="courses-completed-certificates-available-on-linkedinhttpswwwlinkedincominadityamanglik">Courses Completed (&lt;a href="https://www.linkedin.com/in/adityamanglik/" target="_blank" rel="noopener">Certificates available on LinkedIn&lt;/a>)&lt;/h2>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.coursera.org/learn/algorithmic-toolbox" target="_blank" rel="noopener">Algorithms (Coursera)&lt;/a> - &lt;a href="https://github.com/adityamanglik/Algorithm-Implementations/" target="_blank" rel="noopener">Code Repository&lt;/a>&lt;/p>
@@ -59,7 +48,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>
 &lt;p>Cats vs Dogs - &lt;a href="https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020" target="_blank" rel="noopener">Kaggle Notebook&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>STM32F7 Interfacing</title><link>https://adityamanglik.github.io/project/stm32/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/stm32/</guid><description>&lt;p>Documentation: &lt;a href="https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/" target="_blank" rel="noopener">https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a>&lt;/p></description></item><item><title>Standing Invitation</title><link>https://adityamanglik.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/post/getting-started/</guid><description>&lt;p>Inspired from &lt;a href="https://www.kalzumeus.com/standing-invitation/" target="_blank" rel="noopener">Patrick McKenzie&lt;/a>.
+&lt;/ul></description></item><item><title>STM32F7 Interfacing</title><link>https://adityamanglik.github.io/project/stm32/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/stm32/</guid><description>&lt;p>Documentation: &lt;a href="https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/" target="_blank" rel="noopener">https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a>&lt;/p></description></item><item><title>Resistive Crossbar-Aware Neural Network Design and Optimization</title><link>https://adityamanglik.github.io/publication/access_2021/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/access_2021/</guid><description/></item><item><title>Standing Invitation</title><link>https://adityamanglik.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/post/getting-started/</guid><description>&lt;p>Inspired from &lt;a href="https://www.kalzumeus.com/standing-invitation/" target="_blank" rel="noopener">Patrick McKenzie&lt;/a>.
 My email address is reach.aditya.here@ world&amp;rsquo;s most popular email service. I strongly prefer email as a communication method.&lt;/p>
 &lt;p>Would appreciate if you read &lt;a href="https://hbr.org/2016/09/a-guide-to-cold-emailing" target="_blank" rel="noopener">some tips on emailing&lt;/a> first as that would be helpful for both of us.
 Look forward to hearing from you!&lt;/p></description></item><item><title>Power attribution and Estimation Engine in Linux</title><link>https://adityamanglik.github.io/project/linuxenergy/</link><pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/linuxenergy/</guid><description>&lt;p>Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.&lt;/p>
@@ -90,9 +79,12 @@ Look forward to hearing from you!&lt;/p></description></item><item><title>Power 
 &lt;li>&lt;a href="https://ieeexplore.ieee.org/document/5751489" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/5751489&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://www.cs.columbia.edu/~lierranli/coms6998-11Fall2012/papers/eprof_eurosys2012.pdf" target="_blank" rel="noopener">http://www.cs.columbia.edu/~lierranli/coms6998-11Fall2012/papers/eprof_eurosys2012.pdf&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dl.acm.org/doi/pdf/10.1145/3194078.3194079" target="_blank" rel="noopener">https://dl.acm.org/doi/pdf/10.1145/3194078.3194079&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3229631.3229633" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3229631.3229633&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dl.acm.org/doi/pdf/10.5555/2872599.2872613" target="_blank" rel="noopener">https://dl.acm.org/doi/pdf/10.5555/2872599.2872613&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="resources">Resources&lt;/h2>
 &lt;ul>
+&lt;li>Linux packages to poll information: &lt;a href="https://manpages.debian.org/testing/linux-cpupower/index.html" target="_blank" rel="noopener">https://manpages.debian.org/testing/linux-cpupower/index.html&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://apenwarr.ca/log/20061024" target="_blank" rel="noopener">https://apenwarr.ca/log/20061024&lt;/a>&lt;/li>
 &lt;li>Linux ACPI Intel Documentation: &lt;a href="https://01.org/linux-acpi" target="_blank" rel="noopener">Link&lt;/a>&lt;/li>
 &lt;li>Linux process management: &lt;a href="https://tldp.org/LDP/tlk/kernel/processes.html" target="_blank" rel="noopener">Link&lt;/a>&lt;/li>
@@ -106,7 +98,18 @@ Look forward to hearing from you!&lt;/p></description></item><item><title>Power 
 &lt;li>&lt;a href="https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/" target="_blank" rel="noopener">https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957" target="_blank" rel="noopener">https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://sites.google.com/view/energy-efficiency-languages/home" target="_blank" rel="noopener">https://sites.google.com/view/energy-efficiency-languages/home&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Slides</title><link>https://adityamanglik.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;/ul></description></item><item><title>Adaptive Gait Generation for Hexapod robot using Genetic Algorithm</title><link>https://adityamanglik.github.io/publication/adaptive_gait_icpeices_2016/</link><pubDate>Thu, 16 Apr 2020 15:40:56 +0530</pubDate><guid>https://adityamanglik.github.io/publication/adaptive_gait_icpeices_2016/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+&lt;/div>
+&lt;/div>
+&lt;div class="alert alert-note">
+&lt;div>
+Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+&lt;/div>
+&lt;/div>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Slides</title><link>https://adityamanglik.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
@@ -217,14 +220,14 @@ data-background-image="/media/boards.jpg"
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
 &lt;h1 id="questions">Questions?&lt;/h1>
 &lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
-&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>An example conference paper</title><link>https://adityamanglik.github.io/publication/example/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/example/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
+&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>Power panel in GNOME-Usage</title><link>https://adityamanglik.github.io/talk/power-panel-in-gnome-usage/</link><pubDate>Thu, 05 Jul 2018 00:10:54 +0530</pubDate><guid>https://adityamanglik.github.io/talk/power-panel-in-gnome-usage/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
 &lt;/div>
 &lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title/><link>https://adityamanglik.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/admin/config.yml</guid><description/></item></channel></rss>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title/><link>https://adityamanglik.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/admin/config.yml</guid><description/></item></channel></rss>

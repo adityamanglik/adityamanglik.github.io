@@ -76,9 +76,12 @@
 &lt;li>&lt;a href="https://ieeexplore.ieee.org/document/5751489" target="_blank" rel="noopener">https://ieeexplore.ieee.org/document/5751489&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://www.cs.columbia.edu/~lierranli/coms6998-11Fall2012/papers/eprof_eurosys2012.pdf" target="_blank" rel="noopener">http://www.cs.columbia.edu/~lierranli/coms6998-11Fall2012/papers/eprof_eurosys2012.pdf&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dl.acm.org/doi/pdf/10.1145/3194078.3194079" target="_blank" rel="noopener">https://dl.acm.org/doi/pdf/10.1145/3194078.3194079&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3229631.3229633" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3229631.3229633&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dl.acm.org/doi/pdf/10.5555/2872599.2872613" target="_blank" rel="noopener">https://dl.acm.org/doi/pdf/10.5555/2872599.2872613&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="resources">Resources&lt;/h2>
 &lt;ul>
+&lt;li>Linux packages to poll information: &lt;a href="https://manpages.debian.org/testing/linux-cpupower/index.html" target="_blank" rel="noopener">https://manpages.debian.org/testing/linux-cpupower/index.html&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://apenwarr.ca/log/20061024" target="_blank" rel="noopener">https://apenwarr.ca/log/20061024&lt;/a>&lt;/li>
 &lt;li>Linux ACPI Intel Documentation: &lt;a href="https://01.org/linux-acpi" target="_blank" rel="noopener">Link&lt;/a>&lt;/li>
 &lt;li>Linux process management: &lt;a href="https://tldp.org/LDP/tlk/kernel/processes.html" target="_blank" rel="noopener">Link&lt;/a>&lt;/li>
