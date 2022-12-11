@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: 'Talks and Presentations'
+title: 'Talks'
 subtitle:
 
 content:
@@ -39,4 +39,3 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-Add all talks.

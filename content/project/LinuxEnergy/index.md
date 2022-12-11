@@ -59,8 +59,11 @@ https://www.usenix.org/conference/atc12/technical-sessions/presentation/yoon)
 * https://ieeexplore.ieee.org/document/5751489
 * http://www.cs.columbia.edu/~lierranli/coms6998-11Fall2012/papers/eprof_eurosys2012.pdf
 * https://dl.acm.org/doi/pdf/10.1145/3194078.3194079
+* https://dl.acm.org/doi/10.1145/3229631.3229633
+* https://dl.acm.org/doi/pdf/10.5555/2872599.2872613
 
 ## Resources
+* Linux packages to poll information: https://manpages.debian.org/testing/linux-cpupower/index.html
 * https://apenwarr.ca/log/20061024
 * Linux ACPI Intel Documentation: [Link](https://01.org/linux-acpi)
 * Linux process management: [Link](https://tldp.org/LDP/tlk/kernel/processes.html)
