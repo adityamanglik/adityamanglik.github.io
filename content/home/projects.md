@@ -1,7 +1,7 @@
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: portfolio
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -24,13 +24,13 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-    - name: All
-      tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
-    - name: Other
-      tag: Demo
+  # filter_button:
+  #   - name: All
+  #     tag: '*'
+  #   - name: Deep Learning
+  #     tag: Deep Learning
+  #   - name: Other
+  #     tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Personal Website of Aditya Manglik'
-    twitter: 'wowchemy'
+    # twitter: 'wowchemy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -32,7 +32,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: 1
     show_logo: true
     show_language: false
     show_day_night: true
@@ -43,11 +43,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -72,7 +72,7 @@ features:
     content_dir: content
     branch: main
   avatar:
-    gravatar: True
+    gravatar: False
     shape: circle
   comment:
     provider: ''
@@ -82,7 +82,7 @@ features:
     commento:
       url: ''
   search:
-    provider: wowchemy
+    provider: ''
     algolia:
       app_id: ''
       api_key: ''
@@ -106,4 +106,4 @@ extensions:
 
 security:
   # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+  allow_frame: False

@@ -1,22 +1,12 @@
 ---
 title: Power attribution and Estimation Engine in Linux
 summary: To design and develop high performance, lightweight power measurement and attribution systems inside Linux.
-tags:
-  - learning
 date: "2020-08-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
-
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -27,7 +17,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides:
 ---
 Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.
 
