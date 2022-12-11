@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | adityamanglik.github.io</title>
+    <link>https://adityamanglik.github.io/project/</link>
+      <atom:link href="https://adityamanglik.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adityamanglik.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://adityamanglik.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Course log</title>
+      <link>https://adityamanglik.github.io/project/course_log/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/course_log/</guid>
+      <description>&lt;h2 id=&#34;courses-completed-certificates-available-on-linkedinhttpswwwlinkedincominadityamanglik&#34;&gt;Courses Completed (&lt;a href=&#34;https://www.linkedin.com/in/adityamanglik/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificates available on LinkedIn&lt;/a&gt;)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/algorithmic-toolbox&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Algorithms (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/data-structures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Structures (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/algorithms-on-graphs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph Algorithms (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/algorithms-on-strings&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;String Algorithms (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/advanced-algorithms-and-complexity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Algorithms and Analysis (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h2&gt;
+&lt;p&gt;I feel ML and AI represent tremendous potential for all future possibilities. However, it is critical that we treat the biology-inspired algorithms in a way that nature handles and processes them. There is a critical need to design new systems of the future which can handle the enourmous computation power needed to run these algorithms. I would like to learn mroe.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning by Andrew Ng (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/ml-coursera-python-assignments&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/specializations/deep-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning Specialization by Andrew Ng (Coursera)&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Neural Networks and Deep Learning - &lt;a href=&#34;https://github.com/adityamanglik/Deep-Learning-Courses/tree/master/Deep%20Learning%20Specialization%20-%20Andrew%20Ng/Course%201&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Improving Deep Neural Networks: Hyperparameter tuning, regularization and optimization - &lt;a href=&#34;https://github.com/adityamanglik/Deep-Learning-Courses/tree/master/Deep%20Learning%20Specialization%20-%20Andrew%20Ng/Course%202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Structuring Machine Learning projects - &lt;a href=&#34;https://github.com/adityamanglik/Deep-Learning-Courses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/instructor/~831097&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning by Geoffrey Hinton (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/ml-coursera-python-assignments&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/course/machinelearning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning A-Z (Udemy)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/tree/master/Machine%20Learning/Sklearn%20Implementations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python and Numpy stack (Udemy)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kaggle-competitions&#34;&gt;Kaggle Competitions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://adityamanglik.github.io/post/first-kaggle-competition/&#34;&gt;Titanic challenge&lt;/a&gt; - &lt;a href=&#34;https://www.kaggle.com/carpediemed/kernel62281fa024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Notebook&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cats vs Dogs - &lt;a href=&#34;https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Notebook&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STM32F7 microcontroller interfacing with STM32F4</title>
+      <link>https://adityamanglik.github.io/project/stm32/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/stm32/</guid>
+      <description>&lt;p&gt;Documentation: &lt;a href=&#34;https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power attribution and Estimation Engine in Linux</title>
+      <link>https://adityamanglik.github.io/project/linuxenergy/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/linuxenergy/</guid>
+      <description>&lt;p&gt;Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.&lt;/p&gt;
+&lt;h2 id=&#34;project-log&#34;&gt;Project Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The What, Who, Why, When, Where, &amp;amp; How of the Power Measurement problem: Link&lt;/li&gt;
+&lt;li&gt;Windows Energy Estimation Engine breakdown: &lt;a href=&#34;https://embeddedintelligence.wordpress.com/windows-energy-estimation-engine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Windows System Power Report : &lt;a href=&#34;https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-168-Powercfg-Sleep-Study&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video 1&lt;/a&gt;, &lt;a href=&#34;https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-181-System-Power-Report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MAC OS X Activity Monitor Power Impact breakdown: &lt;a href=&#34;https://embeddedintelligence.wordpress.com/mac-os-x-energy-impact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Android Power Measurement system : Unknown!&lt;/li&gt;
+&lt;li&gt;Reverse Engineering PowerTOP : Link&lt;/li&gt;
+&lt;li&gt;Understanding Intel RAPL: Link&lt;/li&gt;
+&lt;li&gt;Developing the power models, collecting and crunching global user data&lt;/li&gt;
+&lt;li&gt;UPower - System Architecture and Integrations&lt;/li&gt;
+&lt;li&gt;Linux Process accounting infrastructure and integrating power event recording&lt;/li&gt;
+&lt;li&gt;turbostat - Accessing CPU and GPU Package details and power: &lt;a href=&#34;https://manpages.debian.org/testing/linux-cpupower/turbostat.8.en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Comparison and embedding into sysprof &amp;ndash;&amp;gt; Right now gives only CPU and GPU usage, whereas power is a multi-faceted problem&lt;/li&gt;
+&lt;li&gt;Update SuperUser question for all power models: &lt;a href=&#34;https://superuser.com/questions/1304014/power-consumption-in-windows-10-and-linux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Next step = GPU in GNOME-Usage. &lt;a href=&#34;https://drive.google.com/file/d/1kQZQLHIANHIsRSQXw_C3Uffz_SeDuQzg/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSoC Proposal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://software.intel.com/content/www/us/en/develop/documentation/energy-analysis-user-guide/top.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intel CPU Energy analysis tool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;relevant-research-papers&#34;&gt;Relevant Research Papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.usenix.org/conference/atc12/technical-sessions/presentation/yoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AppScope: Application Energy Metering Framework for Android Smartphone Using Kernel Activity Monitoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.eece.maine.edu/~vweaver/projects/rapl/2016_memsys_rapl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DRAM Power Measurement with RAPL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/1840845.1840883&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RAPL for memory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/5751489&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ieeexplore.ieee.org/document/5751489&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.columbia.edu/~lierranli/coms6998-11Fall2012/papers/eprof_eurosys2012.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.cs.columbia.edu/~lierranli/coms6998-11Fall2012/papers/eprof_eurosys2012.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3194078.3194079&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/pdf/10.1145/3194078.3194079&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3229631.3229633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/10.1145/3229631.3229633&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.5555/2872599.2872613&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/pdf/10.5555/2872599.2872613&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux packages to poll information: &lt;a href=&#34;https://manpages.debian.org/testing/linux-cpupower/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://manpages.debian.org/testing/linux-cpupower/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apenwarr.ca/log/20061024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://apenwarr.ca/log/20061024&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux ACPI Intel Documentation: &lt;a href=&#34;https://01.org/linux-acpi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux process management: &lt;a href=&#34;https://tldp.org/LDP/tlk/kernel/processes.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux Process Model (from 2000) : &lt;a href=&#34;https://www.linuxjournal.com/article/3814&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Smart Battery Systems: &lt;a href=&#34;https://batteryuniversity.com/learn/article/inner_workings_of_a_smart_battery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hacking Battery Firmware for fun and profit: &lt;a href=&#34;https://media.blackhat.com/bh-us-11/Miller/BH_US_11_Miller_Battery_Firmware_Public_WP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.semanticscholar.org/paper/Adaptive-Power-Management-Based-on-Reinforcement-Liu-Hsu/40b943ed1f4514979b2b997c3a675cb77ec635c7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.semanticscholar.org/paper/Adaptive-Power-Management-Based-on-Reinforcement-Liu-Hsu/40b943ed1f4514979b2b997c3a675cb77ec635c7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Is it possible to compute carbon footprint of the current application: &lt;a href=&#34;https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/&lt;/a&gt; ?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.phoronix.com/scan.php?page=news_item&amp;amp;px=GNOME-Usage-Power-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-Usage-Power-2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/energy-efficiency-languages/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/energy-efficiency-languages/home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
