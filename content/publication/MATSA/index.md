@@ -5,9 +5,9 @@ title: 'Resistive Crossbar-Aware Neural Network Design and Optimization'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Muhammad Hanif Abdullah
+  - Ivan Fernandez
   - admin
-  - Muhammad Shafique
+  - Christina Giannoula, Ricardo Quislant, Nika Mansouri Ghiasi, Juan Gómez-Luna, Eladio Gutierrez, Oscar Plata, Onur Mutlu
   # - Robert Ford
 
 # Author notes (optional)
@@ -15,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2021-11-26T00:00:00Z'
+date: '2022-11-26T00:00:00Z'
 doi: '10.1109/ACCESS.2020.3045071'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-11-26T00:00:00Z'
+publishDate: '2022-11-26T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +28,8 @@ publishDate: '2021-11-26T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Access*
-publication_short: In *IEEE Access*
+publication: Arxiv
+publication_short: Arxiv
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/document/9294014'
+url_pdf: 'https://arxiv.org/abs/2211.04369'
 url_code: ''
 url_dataset: ''
 url_poster: ''
