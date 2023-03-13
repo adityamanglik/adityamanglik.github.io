@@ -2,6 +2,8 @@
 title: "Adaptive Gait Generation for Hexapod robot using Genetic Algorithm"
 authors: 
   - admin
+  - Kunal Gupta
+  - Surekha Bhanot
 date: 2020-04-16T15:40:56+05:30
 doi: '10.1109/ICPEICES.2016.7853681'
 
