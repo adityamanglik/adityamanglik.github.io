@@ -50,7 +50,27 @@
 &lt;li>
 &lt;p>Cats vs Dogs - &lt;a href="https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020" target="_blank" rel="noopener">Kaggle Notebook&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>STM32F7 microcontroller interfacing with STM32F4</title><link>https://adityamanglik.github.io/project/stm32/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/stm32/</guid><description>&lt;p>Documentation: &lt;a href="https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/" target="_blank" rel="noopener">https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a>&lt;/p></description></item><item><title>RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory</title><link>https://adityamanglik.github.io/publication/revamp3d/</link><pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/revamp3d/</guid><description/></item><item><title>GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping</title><link>https://adityamanglik.github.io/publication/genpip_micro2022/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/genpip_micro2022/</guid><description/></item><item><title>A case for transparent reliability in DRAM systems</title><link>https://adityamanglik.github.io/publication/dram_minesh/</link><pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/dram_minesh/</guid><description/></item><item><title>Resistive Crossbar-Aware Neural Network Design and Optimization</title><link>https://adityamanglik.github.io/publication/access_2021/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/access_2021/</guid><description/></item><item><title>Standing Invitation</title><link>https://adityamanglik.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/post/getting-started/</guid><description>&lt;p>Inspired from &lt;a href="https://www.kalzumeus.com/standing-invitation/" target="_blank" rel="noopener">Patrick McKenzie&lt;/a>.
+&lt;/ul></description></item><item><title>STM32F7 microcontroller interfacing with STM32F4</title><link>https://adityamanglik.github.io/project/stm32/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/stm32/</guid><description>&lt;p>Documentation: &lt;a href="https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/" target="_blank" rel="noopener">https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a>&lt;/p></description></item><item><title>RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory</title><link>https://adityamanglik.github.io/publication/revamp3d/</link><pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/revamp3d/</guid><description/></item><item><title>GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping</title><link>https://adityamanglik.github.io/publication/genpip_micro2022/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/genpip_micro2022/</guid><description/></item><item><title>Energy consumption data in GNOME-Usage</title><link>https://adityamanglik.github.io/talk/energy-consumption-data-in-gnome-usage/</link><pubDate>Wed, 20 Jul 2022 00:10:54 +0530</pubDate><guid>https://adityamanglik.github.io/talk/energy-consumption-data-in-gnome-usage/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>A case for transparent reliability in DRAM systems</title><link>https://adityamanglik.github.io/publication/dram_minesh/</link><pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/dram_minesh/</guid><description/></item><item><title>Research seminar on the paper on Optimizing Google Workloads for Consumer Devices</title><link>https://adityamanglik.github.io/talk/research-seminar-on-the-paper-on-optimizing-google-workloads-for-consumer-devices/</link><pubDate>Thu, 23 Dec 2021 00:10:54 +0530</pubDate><guid>https://adityamanglik.github.io/talk/research-seminar-on-the-paper-on-optimizing-google-workloads-for-consumer-devices/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Resistive Crossbar-Aware Neural Network Design and Optimization</title><link>https://adityamanglik.github.io/publication/access_2021/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/access_2021/</guid><description/></item><item><title>Standing Invitation</title><link>https://adityamanglik.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/post/getting-started/</guid><description>&lt;p>Inspired from &lt;a href="https://www.kalzumeus.com/standing-invitation/" target="_blank" rel="noopener">Patrick McKenzie&lt;/a>.
 My email address is reach.aditya.here@ world&amp;rsquo;s most popular email service. I strongly prefer email as a communication method.&lt;/p>
 &lt;p>Would appreciate if you read &lt;a href="https://hbr.org/2016/09/a-guide-to-cold-emailing" target="_blank" rel="noopener">some tips on emailing&lt;/a> first as that would be helpful for both of us.
 Look forward to hearing from you!&lt;/p></description></item><item><title>Power attribution and Estimation Engine in Linux</title><link>https://adityamanglik.github.io/project/linuxenergy/</link><pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/linuxenergy/</guid><description>&lt;p>Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.&lt;/p>
@@ -111,7 +131,27 @@ Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitor
 Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
 &lt;/div>
 &lt;/div>
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Slides</title><link>https://adityamanglik.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Improving energy efficiency in modern systems</title><link>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</link><pubDate>Thu, 10 Oct 2019 00:10:54 +0530</pubDate><guid>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Improving energy efficiency in modern systems</title><link>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</link><pubDate>Thu, 10 Oct 2019 00:10:54 +0530</pubDate><guid>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Slides</title><link>https://adityamanglik.github.io/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
 &lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
 &lt;hr>
 &lt;h2 id="features">Features&lt;/h2>
