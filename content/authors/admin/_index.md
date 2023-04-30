@@ -18,8 +18,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - System Security
   - Energy Efficiency
+  - System Security
 
 # Education to show in About widget
 education:
@@ -31,7 +31,7 @@ education:
     institution: Technische Universität Wien (Vienna University of Technology), Austria
     year: 2018
   - course: B.Eng. (Hons) in Electrical and Electronics Engineering
-    institution: BITS Pilani, Pilani Campus
+    institution: BITS Pilani, Pilani Campus, India
     year: 2018
 
 # Social/Academic Networking
@@ -66,7 +66,6 @@ email: 'amangli@ethz.ch'
 highlight_name: true
 ---
 
-Hi! I am a graduate student at ETH Zürich, advised by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/). I am broadly interested in systems, specializing in computer architecture and secure system design.
-Before joining ETH Zürich, I worked as a cloud engineer at Oracle Corporation for three years. 
+Hi! I am a graduate student at ETH Zürich, advised by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/). I am interested in systems, specializing in computer architecture and secure system design. Before joining ETH Zürich, I worked as a cloud engineer at Oracle Corporation for three years. 
 
-I earned a Bachelor’s in Electrical Engineering (Hons.) from [BITS Pilani](https://en.wikipedia.org/wiki/Birla_Institute_of_Technology_and_Science,_Pilani) and wrote a bachelor's thesis at TU Wien (supervised by [Prof. Muhammad Shafique](https://ti.tuwien.ac.at/ecs/people/shafique) and [Prof. Surekha Bhanot](https://www.bits-pilani.ac.in/Pilani/surekha/profile)). My prior research focuses on Non-Volatile Memory microarchitectures for accelerating deep learning workloads.
+I earned a Bachelor’s in Electrical Engineering (Hons.) from [BITS Pilani](https://en.wikipedia.org/wiki/Birla_Institute_of_Technology_and_Science,_Pilani) and wrote a bachelor's thesis at [TU Wien](https://en.wikipedia.org/wiki/TU_Wien) (supervised by [Prof. Muhammad Shafique](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html) and [Prof. Surekha Bhanot](https://www.bits-pilani.ac.in/Pilani/surekha/profile)). My prior research focuses on Non-Volatile Memory microarchitectures for accelerating deep learning.
