@@ -76,7 +76,8 @@ My email address is reach.aditya.here@ world&amp;rsquo;s most popular email serv
 Look forward to hearing from you!&lt;/p></description></item><item><title>Power attribution and Estimation Engine in Linux</title><link>https://adityamanglik.github.io/project/linuxenergy/</link><pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/linuxenergy/</guid><description>&lt;p>Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.&lt;/p>
 &lt;h2 id="project-log">Project Log&lt;/h2>
 &lt;ul>
-&lt;li>The What, Who, Why, When, Where, &amp;amp; How of the Power Measurement problem: Link&lt;/li>
+&lt;li>Problem and Motivation: Why: not all software is created equal. Some are more harmful than others, just like website have different footprints. We want fairness in energy consumption via quantification for each process&lt;/li>
+&lt;li>The What, Who, Why, When, Where, &amp;amp; How of the Power Measurement problem&lt;/li>
 &lt;li>Windows Energy Estimation Engine breakdown: &lt;a href="https://embeddedintelligence.wordpress.com/windows-energy-estimation-engine" target="_blank" rel="noopener">Link&lt;/a>&lt;/li>
 &lt;li>Windows System Power Report : &lt;a href="https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-168-Powercfg-Sleep-Study" target="_blank" rel="noopener">Video 1&lt;/a>, &lt;a href="https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-181-System-Power-Report" target="_blank" rel="noopener">Video 2&lt;/a>&lt;/li>
 &lt;li>MAC OS X Activity Monitor Power Impact breakdown: &lt;a href="https://embeddedintelligence.wordpress.com/mac-os-x-energy-impact" target="_blank" rel="noopener">Link&lt;/a>&lt;/li>
@@ -92,6 +93,17 @@ Look forward to hearing from you!&lt;/p></description></item><item><title>Power 
 &lt;li>Next step = GPU in GNOME-Usage. &lt;a href="https://drive.google.com/file/d/1kQZQLHIANHIsRSQXw_C3Uffz_SeDuQzg/view" target="_blank" rel="noopener">GSoC Proposal&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://software.intel.com/content/www/us/en/develop/documentation/energy-analysis-user-guide/top.html" target="_blank" rel="noopener">Intel CPU Energy analysis tool&lt;/a>&lt;/li>
 &lt;/ul>
+&lt;h2 id="known-tools-from-lfe-summit">Known tools (from LFE Summit)&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://powerapi.org/" target="_blank" rel="noopener">PowerAPI&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://mlco2.github.io/codecarbon/index.html" target="_blank" rel="noopener">Code Carbon&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cloudcarbonfootprint.org/" target="_blank" rel="noopener">Cloud Carbon Footprint&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.green-algorithms.org/app-user-guide/" target="_blank" rel="noopener">Green Algorithms calculator&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="kernel">Kernel&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="wookey.org">wookey&lt;/a>&lt;/li>
+&lt;/ul>
 &lt;h2 id="relevant-research-papers">Relevant Research Papers&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/" target="_blank" rel="noopener">https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/&lt;/a>&lt;/li>
@@ -103,6 +115,8 @@ Look forward to hearing from you!&lt;/p></description></item><item><title>Power 
 &lt;li>&lt;a href="https://dl.acm.org/doi/pdf/10.1145/3194078.3194079" target="_blank" rel="noopener">https://dl.acm.org/doi/pdf/10.1145/3194078.3194079&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3229631.3229633" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3229631.3229633&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dl.acm.org/doi/pdf/10.5555/2872599.2872613" target="_blank" rel="noopener">https://dl.acm.org/doi/pdf/10.5555/2872599.2872613&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3575693.3575709" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3575693.3575709&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3575693.3575754" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3575693.3575754&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="resources">Resources&lt;/h2>
 &lt;ul>
