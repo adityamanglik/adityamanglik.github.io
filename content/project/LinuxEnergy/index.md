@@ -22,8 +22,8 @@ slides:
 Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.
 
 ## Project Log
-
-* The What, Who, Why, When, Where, & How of the Power Measurement problem: Link
+* Problem and Motivation: Why: not all software is created equal. Some are more harmful than others, just like website have different footprints. We want fairness in energy consumption via quantification for each process
+* The What, Who, Why, When, Where, & How of the Power Measurement problem
 * Windows Energy Estimation Engine breakdown: [Link](https://embeddedintelligence.wordpress.com/windows-energy-estimation-engine)
 * Windows System Power Report : [Video 1](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-168-Powercfg-Sleep-Study), [Video 2](https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-181-System-Power-Report)
 * MAC OS X Activity Monitor Power Impact breakdown: [Link](https://embeddedintelligence.wordpress.com/mac-os-x-energy-impact)
@@ -39,6 +39,15 @@ Worked on development of the power panel in GNOME-Usage with Felipe Borges and C
 * Next step = GPU in GNOME-Usage. [GSoC Proposal](https://drive.google.com/file/d/1kQZQLHIANHIsRSQXw_C3Uffz_SeDuQzg/view)
 * [Intel CPU Energy analysis tool](https://software.intel.com/content/www/us/en/develop/documentation/energy-analysis-user-guide/top.html)
 
+## Known tools (from LFE Summit)
+* [PowerAPI](https://powerapi.org/)
+* [Code Carbon](https://mlco2.github.io/codecarbon/index.html)
+* [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/)
+* [Green Algorithms calculator](https://www.green-algorithms.org/app-user-guide/)
+
+## Kernel
+* [wookey](wookey.org)
+
 ## Relevant Research Papers
 
 * https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/
@@ -51,6 +60,8 @@ https://www.usenix.org/conference/atc12/technical-sessions/presentation/yoon)
 * https://dl.acm.org/doi/pdf/10.1145/3194078.3194079
 * https://dl.acm.org/doi/10.1145/3229631.3229633
 * https://dl.acm.org/doi/pdf/10.5555/2872599.2872613
+* https://dl.acm.org/doi/10.1145/3575693.3575709
+* https://dl.acm.org/doi/10.1145/3575693.3575754
 
 ## Resources
 * Linux packages to poll information: https://manpages.debian.org/testing/linux-cpupower/index.html
