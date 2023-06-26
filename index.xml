@@ -50,7 +50,7 @@
 &lt;li>
 &lt;p>Cats vs Dogs - &lt;a href="https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020" target="_blank" rel="noopener">Kaggle Notebook&lt;/a>&lt;/p>
 &lt;/li>
-&lt;/ul></description></item><item><title>STM32F7 microcontroller interfacing with STM32F4</title><link>https://adityamanglik.github.io/project/stm32/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/stm32/</guid><description>&lt;p>Documentation: &lt;a href="https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/" target="_blank" rel="noopener">https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a>&lt;/p></description></item><item><title>RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory</title><link>https://adityamanglik.github.io/publication/revamp3d/</link><pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/revamp3d/</guid><description/></item><item><title>GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping</title><link>https://adityamanglik.github.io/publication/genpip_micro2022/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/genpip_micro2022/</guid><description/></item><item><title>Energy consumption data in GNOME-Usage</title><link>https://adityamanglik.github.io/talk/energy-consumption-data-in-gnome-usage/</link><pubDate>Wed, 20 Jul 2022 00:10:54 +0530</pubDate><guid>https://adityamanglik.github.io/talk/energy-consumption-data-in-gnome-usage/</guid><description>&lt;!--
+&lt;/ul></description></item><item><title>STM32F7 microcontroller interfacing with STM32F4</title><link>https://adityamanglik.github.io/project/stm32/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/stm32/</guid><description>&lt;p>Documentation: &lt;a href="https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/" target="_blank" rel="noopener">https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a>&lt;/p></description></item><item><title>RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory</title><link>https://adityamanglik.github.io/publication/revamp3d/</link><pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/revamp3d/</guid><description/></item><item><title>GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping</title><link>https://adityamanglik.github.io/publication/genpip_micro2022/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/publication/genpip_micro2022/</guid><description/></item><item><title>Energy measurement in GNOME-Usage</title><link>https://adityamanglik.github.io/talk/energy-measurement-in-gnome-usage/</link><pubDate>Wed, 20 Jul 2022 00:10:54 +0530</pubDate><guid>https://adityamanglik.github.io/talk/energy-measurement-in-gnome-usage/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
@@ -99,13 +99,16 @@ Look forward to hearing from you!&lt;/p></description></item><item><title>Power 
 &lt;li>&lt;a href="https://mlco2.github.io/codecarbon/index.html" target="_blank" rel="noopener">Code Carbon&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.cloudcarbonfootprint.org/" target="_blank" rel="noopener">Cloud Carbon Footprint&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.green-algorithms.org/app-user-guide/" target="_blank" rel="noopener">Green Algorithms calculator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://greenframe.io/" target="_blank" rel="noopener">GreenFrame&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="kernel">Kernel&lt;/h2>
+&lt;h2 id="kernel-developer">Kernel Developer&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="wookey.org">wookey&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="relevant-research-papers">Relevant Research Papers&lt;/h2>
 &lt;ul>
+&lt;li>Performance is NOT same as energy &amp;ndash; &lt;a href="https://www.sciencedirect.com/science/article/pii/S0306261920304694" target="_blank" rel="noopener">https://www.sciencedirect.com/science/article/pii/S0306261920304694&lt;/a>&lt;/li>
+&lt;li>Good paper on power impact of managed languages: &lt;a href="https://users.cecs.anu.edu.au/~steveb/pubs/papers/powerperf-asplos-2011.pdf" target="_blank" rel="noopener">https://users.cecs.anu.edu.au/~steveb/pubs/papers/powerperf-asplos-2011.pdf&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/" target="_blank" rel="noopener">https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.usenix.org/conference/atc12/technical-sessions/presentation/yoon" target="_blank" rel="noopener">AppScope: Application Energy Metering Framework for Android Smartphone Using Kernel Activity Monitoring&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://web.eece.maine.edu/~vweaver/projects/rapl/2016_memsys_rapl.pdf" target="_blank" rel="noopener">DRAM Power Measurement with RAPL&lt;/a>&lt;/li>
@@ -117,6 +120,10 @@ Look forward to hearing from you!&lt;/p></description></item><item><title>Power 
 &lt;li>&lt;a href="https://dl.acm.org/doi/pdf/10.5555/2872599.2872613" target="_blank" rel="noopener">https://dl.acm.org/doi/pdf/10.5555/2872599.2872613&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3575693.3575709" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3575693.3575709&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3575693.3575754" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3575693.3575754&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="data-collection-sources">Data collection sources&lt;/h2>
+&lt;ul>
+&lt;li>Tracy: Can collect data from HPC systems for workloads to fine-tune the model&lt;/li>
 &lt;/ul>
 &lt;h2 id="resources">Resources&lt;/h2>
 &lt;ul>
@@ -134,7 +141,28 @@ Look forward to hearing from you!&lt;/p></description></item><item><title>Power 
 &lt;li>&lt;a href="https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/" target="_blank" rel="noopener">https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957" target="_blank" rel="noopener">https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://sites.google.com/view/energy-efficiency-languages/home" target="_blank" rel="noopener">https://sites.google.com/view/energy-efficiency-languages/home&lt;/a>&lt;/li>
-&lt;/ul></description></item><item><title>Adaptive Gait Generation for Hexapod robot using Genetic Algorithm</title><link>https://adityamanglik.github.io/publication/adaptive_gait_icpeices_2016/</link><pubDate>Thu, 16 Apr 2020 15:40:56 +0530</pubDate><guid>https://adityamanglik.github.io/publication/adaptive_gait_icpeices_2016/</guid><description>&lt;!--
+&lt;/ul>
+&lt;h2 id="links-from-lfe">Links from LFE&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://greensoftware.foundation/projects/" target="_blank" rel="noopener">https://greensoftware.foundation/projects/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://greensoftware.foundation/articles/software-carbon-intensity-sci-specification-project" target="_blank" rel="noopener">https://greensoftware.foundation/articles/software-carbon-intensity-sci-specification-project&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codecarbon.io/#howitwork" target="_blank" rel="noopener">https://codecarbon.io/#howitwork&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/" target="_blank" rel="noopener">https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/" target="_blank" rel="noopener">https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/&lt;/a>&lt;/li>
+&lt;li>Toward Carbon-Aware Networking, Noa Zilberman, University of Oxford&lt;/li>
+&lt;li>&lt;a href="https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/" target="_blank" rel="noopener">https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/" target="_blank" rel="noopener">https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>Improving energy efficiency in modern systems</title><link>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</link><pubDate>Wed, 22 Jul 2020 00:10:54 +0530</pubDate><guid>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</guid><description>&lt;!--
+&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+Slides can be added in a few ways:
+- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Adaptive Gait Generation for Hexapod robot using Genetic Algorithm</title><link>https://adityamanglik.github.io/publication/adaptive_gait_icpeices_2016/</link><pubDate>Thu, 16 Apr 2020 15:40:56 +0530</pubDate><guid>https://adityamanglik.github.io/publication/adaptive_gait_icpeices_2016/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -146,16 +174,6 @@ Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check
 &lt;/div>
 &lt;/div>
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --></description></item><item><title>Improving energy efficiency in modern systems</title><link>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</link><pubDate>Thu, 10 Oct 2019 00:10:54 +0530</pubDate><guid>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</guid><description>&lt;!--
-&lt;div class="alert alert-note">
-&lt;div>
-Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
-&lt;/div>
-&lt;/div>
-Slides can be added in a few ways:
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Improving energy efficiency in modern systems</title><link>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</link><pubDate>Thu, 10 Oct 2019 00:10:54 +0530</pubDate><guid>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</guid><description>&lt;!--
 &lt;div class="alert alert-note">
 &lt;div>
 Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
@@ -286,4 +304,28 @@ Slides can be added in a few ways:
 - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title/><link>https://adityamanglik.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/admin/config.yml</guid><description/></item></channel></rss>
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --></description></item><item><title>Flashing the BeagleBone Black</title><link>https://adityamanglik.github.io/post/beaglebone/</link><pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/post/beaglebone/</guid><description>&lt;p>There are many ways to flash a &lt;a href="https://beagleboard.org/black" target="_blank" rel="noopener">BeagleBone Black&lt;/a>:&lt;/p>
+&lt;ol>
+&lt;li>Boot off of SD Card&lt;/li>
+&lt;li>Flash from a Flasher image&lt;/li>
+&lt;li>Flash using the BBBlfs&lt;/li>
+&lt;/ol>
+&lt;p>Here is a bit of a hardcore way to do it if all else fails.&lt;/p>
+&lt;p>First of all boot using the SD card and ensure that your system works. This should not be a problem.&lt;/p>
+&lt;p>Next step is to dd the SD card&amp;rsquo;s image to the on board eMMC. Since the SD card works, if we simply copy the disks, the onboard memory should work perfectly as well!&lt;/p>
+&lt;p>Unmount the filesystem(all disks) using this command:&lt;/p>
+&lt;p>&lt;code>mount -o remount,ro / &lt;/code>&lt;/p>
+&lt;p>If it says / is busy, we have to make the root filesystem boot in read only. To do this, go to /etc/fstab and make the following changes&lt;/p>
+&lt;p>Change the entry&lt;/p>
+&lt;p>&lt;code>/dev/sda1 / ext2 relatime,rw,errors=remount-ro 0 1&lt;/code>&lt;/p>
+&lt;p>to&lt;/p>
+&lt;p>&lt;code>/dev/sda1 / ext2 noatime,ro 0 1&lt;/code>&lt;/p>
+&lt;p>Restart the BBB and boot from the SD once again.
+Now issue the following command:&lt;/p>
+&lt;p>&lt;code>dd if=/dev/mmcblk0 of=/dev/mmcblk1&lt;/code>&lt;/p>
+&lt;p>The above command assumes SD located at blk0 and eMMC located at blk1. Please check this using the fdisk -l output and issue the correct command.
+At the end of this process,remount your filesystem using this command&lt;/p>
+&lt;p>&lt;code>mount -o remount,rw /&lt;/code>&lt;/p>
+&lt;p>Now undo the changes you made to fstab file and enjoy!&lt;/p>
+&lt;h2 id="common-mistakes">Common Mistakes&lt;/h2>
+&lt;p>Check if your BBB has 2 GB(Rev B) on board memory of 4 GB(Rev C). Please select and download the appropriate image from the image download page.&lt;/p></description></item><item><title/><link>https://adityamanglik.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/admin/config.yml</guid><description/></item></channel></rss>

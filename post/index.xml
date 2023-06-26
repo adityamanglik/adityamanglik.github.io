@@ -1,4 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | adityamanglik.github.io</title><link>https://adityamanglik.github.io/post/</link><atom:link href="https://adityamanglik.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><image><url>https://adityamanglik.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://adityamanglik.github.io/post/</link></image><item><title>Standing Invitation</title><link>https://adityamanglik.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/post/getting-started/</guid><description>&lt;p>Inspired from &lt;a href="https://www.kalzumeus.com/standing-invitation/" target="_blank" rel="noopener">Patrick McKenzie&lt;/a>.
 My email address is reach.aditya.here@ world&amp;rsquo;s most popular email service. I strongly prefer email as a communication method.&lt;/p>
 &lt;p>Would appreciate if you read &lt;a href="https://hbr.org/2016/09/a-guide-to-cold-emailing" target="_blank" rel="noopener">some tips on emailing&lt;/a> first as that would be helpful for both of us.
-Look forward to hearing from you!&lt;/p></description></item></channel></rss>
+Look forward to hearing from you!&lt;/p></description></item><item><title>Flashing the BeagleBone Black</title><link>https://adityamanglik.github.io/post/beaglebone/</link><pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/post/beaglebone/</guid><description>&lt;p>There are many ways to flash a &lt;a href="https://beagleboard.org/black" target="_blank" rel="noopener">BeagleBone Black&lt;/a>:&lt;/p>
+&lt;ol>
+&lt;li>Boot off of SD Card&lt;/li>
+&lt;li>Flash from a Flasher image&lt;/li>
+&lt;li>Flash using the BBBlfs&lt;/li>
+&lt;/ol>
+&lt;p>Here is a bit of a hardcore way to do it if all else fails.&lt;/p>
+&lt;p>First of all boot using the SD card and ensure that your system works. This should not be a problem.&lt;/p>
+&lt;p>Next step is to dd the SD card&amp;rsquo;s image to the on board eMMC. Since the SD card works, if we simply copy the disks, the onboard memory should work perfectly as well!&lt;/p>
+&lt;p>Unmount the filesystem(all disks) using this command:&lt;/p>
+&lt;p>&lt;code>mount -o remount,ro / &lt;/code>&lt;/p>
+&lt;p>If it says / is busy, we have to make the root filesystem boot in read only. To do this, go to /etc/fstab and make the following changes&lt;/p>
+&lt;p>Change the entry&lt;/p>
+&lt;p>&lt;code>/dev/sda1 / ext2 relatime,rw,errors=remount-ro 0 1&lt;/code>&lt;/p>
+&lt;p>to&lt;/p>
+&lt;p>&lt;code>/dev/sda1 / ext2 noatime,ro 0 1&lt;/code>&lt;/p>
+&lt;p>Restart the BBB and boot from the SD once again.
+Now issue the following command:&lt;/p>
+&lt;p>&lt;code>dd if=/dev/mmcblk0 of=/dev/mmcblk1&lt;/code>&lt;/p>
+&lt;p>The above command assumes SD located at blk0 and eMMC located at blk1. Please check this using the fdisk -l output and issue the correct command.
+At the end of this process,remount your filesystem using this command&lt;/p>
+&lt;p>&lt;code>mount -o remount,rw /&lt;/code>&lt;/p>
+&lt;p>Now undo the changes you made to fstab file and enjoy!&lt;/p>
+&lt;h2 id="common-mistakes">Common Mistakes&lt;/h2>
+&lt;p>Check if your BBB has 2 GB(Rev B) on board memory of 4 GB(Rev C). Please select and download the appropriate image from the image download page.&lt;/p></description></item></channel></rss>

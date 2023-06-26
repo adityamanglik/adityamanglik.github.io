@@ -76,13 +76,16 @@
 &lt;li>&lt;a href="https://mlco2.github.io/codecarbon/index.html" target="_blank" rel="noopener">Code Carbon&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.cloudcarbonfootprint.org/" target="_blank" rel="noopener">Cloud Carbon Footprint&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.green-algorithms.org/app-user-guide/" target="_blank" rel="noopener">Green Algorithms calculator&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://greenframe.io/" target="_blank" rel="noopener">GreenFrame&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h2 id="kernel">Kernel&lt;/h2>
+&lt;h2 id="kernel-developer">Kernel Developer&lt;/h2>
 &lt;ul>
 &lt;li>&lt;a href="wookey.org">wookey&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h2 id="relevant-research-papers">Relevant Research Papers&lt;/h2>
 &lt;ul>
+&lt;li>Performance is NOT same as energy &amp;ndash; &lt;a href="https://www.sciencedirect.com/science/article/pii/S0306261920304694" target="_blank" rel="noopener">https://www.sciencedirect.com/science/article/pii/S0306261920304694&lt;/a>&lt;/li>
+&lt;li>Good paper on power impact of managed languages: &lt;a href="https://users.cecs.anu.edu.au/~steveb/pubs/papers/powerperf-asplos-2011.pdf" target="_blank" rel="noopener">https://users.cecs.anu.edu.au/~steveb/pubs/papers/powerperf-asplos-2011.pdf&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/" target="_blank" rel="noopener">https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.usenix.org/conference/atc12/technical-sessions/presentation/yoon" target="_blank" rel="noopener">AppScope: Application Energy Metering Framework for Android Smartphone Using Kernel Activity Monitoring&lt;/a>&lt;/li>
 &lt;li>&lt;a href="http://web.eece.maine.edu/~vweaver/projects/rapl/2016_memsys_rapl.pdf" target="_blank" rel="noopener">DRAM Power Measurement with RAPL&lt;/a>&lt;/li>
@@ -94,6 +97,10 @@
 &lt;li>&lt;a href="https://dl.acm.org/doi/pdf/10.5555/2872599.2872613" target="_blank" rel="noopener">https://dl.acm.org/doi/pdf/10.5555/2872599.2872613&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3575693.3575709" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3575693.3575709&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://dl.acm.org/doi/10.1145/3575693.3575754" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3575693.3575754&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="data-collection-sources">Data collection sources&lt;/h2>
+&lt;ul>
+&lt;li>Tracy: Can collect data from HPC systems for workloads to fine-tune the model&lt;/li>
 &lt;/ul>
 &lt;h2 id="resources">Resources&lt;/h2>
 &lt;ul>
@@ -111,4 +118,15 @@
 &lt;li>&lt;a href="https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/" target="_blank" rel="noopener">https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957" target="_blank" rel="noopener">https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://sites.google.com/view/energy-efficiency-languages/home" target="_blank" rel="noopener">https://sites.google.com/view/energy-efficiency-languages/home&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="links-from-lfe">Links from LFE&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="https://greensoftware.foundation/projects/" target="_blank" rel="noopener">https://greensoftware.foundation/projects/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://greensoftware.foundation/articles/software-carbon-intensity-sci-specification-project" target="_blank" rel="noopener">https://greensoftware.foundation/articles/software-carbon-intensity-sci-specification-project&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://codecarbon.io/#howitwork" target="_blank" rel="noopener">https://codecarbon.io/#howitwork&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/" target="_blank" rel="noopener">https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/" target="_blank" rel="noopener">https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/&lt;/a>&lt;/li>
+&lt;li>Toward Carbon-Aware Networking, Noa Zilberman, University of Oxford&lt;/li>
+&lt;li>&lt;a href="https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/" target="_blank" rel="noopener">https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/" target="_blank" rel="noopener">https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/&lt;/a>&lt;/li>
 &lt;/ul></description></item></channel></rss>
