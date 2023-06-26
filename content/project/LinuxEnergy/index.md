@@ -44,12 +44,14 @@ Worked on development of the power panel in GNOME-Usage with Felipe Borges and C
 * [Code Carbon](https://mlco2.github.io/codecarbon/index.html)
 * [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/)
 * [Green Algorithms calculator](https://www.green-algorithms.org/app-user-guide/)
+* [GreenFrame](https://greenframe.io/)
 
-## Kernel
+## Kernel Developer
 * [wookey](wookey.org)
 
 ## Relevant Research Papers
-
+* Performance is NOT same as energy -- https://www.sciencedirect.com/science/article/pii/S0306261920304694
+* Good paper on power impact of managed languages: https://users.cecs.anu.edu.au/~steveb/pubs/papers/powerperf-asplos-2011.pdf
 * https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/
 * [AppScope: Application Energy Metering Framework for Android Smartphone Using Kernel Activity Monitoring](
 https://www.usenix.org/conference/atc12/technical-sessions/presentation/yoon)
@@ -62,6 +64,9 @@ https://www.usenix.org/conference/atc12/technical-sessions/presentation/yoon)
 * https://dl.acm.org/doi/pdf/10.5555/2872599.2872613
 * https://dl.acm.org/doi/10.1145/3575693.3575709
 * https://dl.acm.org/doi/10.1145/3575693.3575754
+
+## Data collection sources
+* Tracy: Can collect data from HPC systems for workloads to fine-tune the model
 
 ## Resources
 * Linux packages to poll information: https://manpages.debian.org/testing/linux-cpupower/index.html
@@ -78,3 +83,13 @@ https://www.usenix.org/conference/atc12/technical-sessions/presentation/yoon)
 * https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/
 * https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957
 * https://sites.google.com/view/energy-efficiency-languages/home
+
+## Links from LFE
+* https://greensoftware.foundation/projects/
+* https://greensoftware.foundation/articles/software-carbon-intensity-sci-specification-project
+* https://codecarbon.io/#howitwork
+* https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/
+* https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/
+* Toward Carbon-Aware Networking, Noa Zilberman, University of Oxford
+* https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/
+* https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/
