@@ -1,5 +1,5 @@
 ---
-title: Energy consumption data in GNOME-Usage
+title: Energy measurement in GNOME-Usage
 event: GUADEC 2022
 event_url: https://events.gnome.org/event/77/
 location: Guadalajara, Mexico

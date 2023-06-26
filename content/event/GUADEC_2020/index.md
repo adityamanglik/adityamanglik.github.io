@@ -2,7 +2,7 @@
 title: Improving energy efficiency in modern systems
 event: GNOME.Asia 2019
 event_url: https://2019.gnome.asia/#/
-location: Gresik, Indonesia
+location: Virtual
 summary: Lightening talk
 abstract: Energy efficiency and challenges on the path to designing efficient systems
 
@@ -11,12 +11,12 @@ abstract: Energy efficiency and challenges on the path to designing efficient sy
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-10-10T00:10:54+05:30
+date: 2020-07-22T00:10:54+05:30
 # date_end: 2018-07-05T00:10:59+05:30
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2020-07-22T00:00:00Z'
 
 authors: 
   - admin
@@ -26,7 +26,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Lightening talk"
+  caption: "Lightning talk"
   focal_point: ""
   preview_only: false
 

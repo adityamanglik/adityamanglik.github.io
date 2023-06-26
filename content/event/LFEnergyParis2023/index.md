@@ -3,7 +3,8 @@ title: Measuring Carbon Footprint of Personal Computing
 event: Linux Foundation Energy Summit-2023
 event_url: https://lfenergysummit2023.sched.com/event/1JYPU
 location: Paris, France
-summary: The talk focuses on power measurement and attribution for software (processes) and hardware devices. The objective is to detail the developments in power tracking infrastructure in the Linux kernel for measuring the energy consumption of hardware devices and software applications. These statistics are extremely useful for both end-users and developers. The focus would be on a detailed discussion of multivariate regression models to determine application and hardware device energy consumption. There are also privacy concerns attached to this data, which need feedback from more developers. LF Energy Summit would be a great platform to present the work to the developer community and get feedback to improve the system design. Talk Outline 1) Understanding why power consumption is a first-class design constraint in modern systems, including desktop, server, and mobile-class systems 2) Demonstrating the value of power consumption across different stakeholders, including end-users, application programmers, kernel developers, and system designers 3) Survey results from corresponding systems in competing environments and OS 4) System design proposal and evaluation 
+summary: Linux process energy measurement
+abstract: Linux process energy measurement
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
@@ -11,6 +12,7 @@ summary: The talk focuses on power measurement and attribution for software (pro
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-06-02T13:55:00+02:00
+# date_end: 2018-07-05T00:10:59+05:30
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -21,7 +23,7 @@ authors:
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: ""
@@ -63,3 +65,5 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
+
+ The talk focuses on power measurement and attribution for software (processes) and hardware devices. The objective is to detail the developments in power tracking infrastructure in the Linux kernel for measuring the energy consumption of hardware devices and software applications. These statistics are extremely useful for both end-users and developers. The focus would be on a detailed discussion of multivariate regression models to determine application and hardware device energy consumption. There are also privacy concerns attached to this data, which need feedback from more developers. LF Energy Summit would be a great platform to present the work to the developer community and get feedback to improve the system design. Talk Outline 1) Understanding why power consumption is a first-class design constraint in modern systems, including desktop, server, and mobile-class systems 2) Demonstrating the value of power consumption across different stakeholders, including end-users, application programmers, kernel developers, and system designers 3) Survey results from corresponding systems in competing environments and OS 4) System design proposal and evaluation 
