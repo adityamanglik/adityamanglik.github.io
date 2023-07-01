@@ -1,6 +1,6 @@
 ---
 title: Course log
-summary: List of courses over the years
+summary: Log for courses over the years
 # tags:
 #   - learning
 date: '2022-10-20T00:00:00Z'
@@ -31,19 +31,21 @@ date: '2022-10-20T00:00:00Z'
 ---
 ## Courses Completed ([Certificates available on LinkedIn](https://www.linkedin.com/in/adityamanglik/))
 
+* [Learning How to Learn (Coursera)](https://www.coursera.org/learn/learning-how-to-learn)
+
+* [Fundamentals of Parallelism in Intel Architectures (Coursera)](https://github.com/adityamanglik/Online_Courses/Fundamentals%20of%20Parallelism%20in%20Intel%20Architectures)
+
 * [Algorithms (Coursera)](https://www.coursera.org/learn/algorithmic-toolbox) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
 
 * [Data Structures (Coursera)](https://www.coursera.org/learn/data-structures) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
 
 * [Graph Algorithms (Coursera)](https://www.coursera.org/learn/algorithms-on-graphs) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
 
-* [String Algorithms (Coursera)](https://www.coursera.org/learn/algorithms-on-strings) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
+<!-- * [String Algorithms (Coursera)](https://www.coursera.org/learn/algorithms-on-strings) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
 
-* [Advanced Algorithms and Analysis (Coursera)](https://www.coursera.org/learn/advanced-algorithms-and-complexity) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
+* [Advanced Algorithms and Analysis (Coursera)](https://www.coursera.org/learn/advanced-algorithms-and-complexity) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/) -->
 
 ## Machine Learning
-
-I feel ML and AI represent tremendous potential for all future possibilities. However, it is critical that we treat the biology-inspired algorithms in a way that nature handles and processes them. There is a critical need to design new systems of the future which can handle the enourmous computation power needed to run these algorithms. I would like to learn mroe.
 
 * [Machine Learning by Andrew Ng (Coursera)](https://www.coursera.org/learn/machine-learning) - [Code Repository](https://github.com/adityamanglik/ml-coursera-python-assignments)
 
@@ -57,9 +59,9 @@ I feel ML and AI represent tremendous potential for all future possibilities. Ho
 * [Machine Learning A-Z (Udemy)](https://www.udemy.com/course/machinelearning/) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/tree/master/Machine%20Learning/Sklearn%20Implementations)
 
 * [Python and Numpy stack (Udemy)](https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/)
-
+<!-- 
 ## Kaggle Competitions
 
 * [Titanic challenge](/post/first-kaggle-competition/) - [Kaggle Notebook](https://www.kaggle.com/carpediemed/kernel62281fa024)
 
-* Cats vs Dogs - [Kaggle Notebook](https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020)
+* Cats vs Dogs - [Kaggle Notebook](https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020) -->

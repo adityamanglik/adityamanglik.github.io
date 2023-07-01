@@ -3,7 +3,7 @@ title: Standing Invitation
 # subtitle: Standing Invitation
 
 # Summary for listings and search engines
-summary: If you want to talk software and hardware, I want to talk to you.
+summary: If you need help to solve a difficult problem, please get in touch!
 
 # Link this post with a project
 # projects: []
