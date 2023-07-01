@@ -3,6 +3,12 @@
 &lt;iframe src="https://www.google.com/maps/d/embed?mid=1lVq3NQHgcI9frgwqu5SU76v6h1LU2Y8&amp;usp=sharing" width="800" height="450" frameborder="0" style="border:0">&lt;/iframe></description></item><item><title>Course log</title><link>https://adityamanglik.github.io/project/course_log/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/course_log/</guid><description>&lt;h2 id="courses-completed-certificates-available-on-linkedinhttpswwwlinkedincominadityamanglik">Courses Completed (&lt;a href="https://www.linkedin.com/in/adityamanglik/" target="_blank" rel="noopener">Certificates available on LinkedIn&lt;/a>)&lt;/h2>
 &lt;ul>
 &lt;li>
+&lt;p>&lt;a href="https://www.coursera.org/learn/learning-how-to-learn" target="_blank" rel="noopener">Learning How to Learn (Coursera)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://github.com/adityamanglik/Online_Courses/Fundamentals%20of%20Parallelism%20in%20Intel%20Architectures" target="_blank" rel="noopener">Fundamentals of Parallelism in Intel Architectures (Coursera)&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
 &lt;p>&lt;a href="https://www.coursera.org/learn/algorithmic-toolbox" target="_blank" rel="noopener">Algorithms (Coursera)&lt;/a> - &lt;a href="https://github.com/adityamanglik/Algorithm-Implementations/" target="_blank" rel="noopener">Code Repository&lt;/a>&lt;/p>
 &lt;/li>
 &lt;li>
@@ -11,15 +17,10 @@
 &lt;li>
 &lt;p>&lt;a href="https://www.coursera.org/learn/algorithms-on-graphs" target="_blank" rel="noopener">Graph Algorithms (Coursera)&lt;/a> - &lt;a href="https://github.com/adityamanglik/Algorithm-Implementations/" target="_blank" rel="noopener">Code Repository&lt;/a>&lt;/p>
 &lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://www.coursera.org/learn/algorithms-on-strings" target="_blank" rel="noopener">String Algorithms (Coursera)&lt;/a> - &lt;a href="https://github.com/adityamanglik/Algorithm-Implementations/" target="_blank" rel="noopener">Code Repository&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>&lt;a href="https://www.coursera.org/learn/advanced-algorithms-and-complexity" target="_blank" rel="noopener">Advanced Algorithms and Analysis (Coursera)&lt;/a> - &lt;a href="https://github.com/adityamanglik/Algorithm-Implementations/" target="_blank" rel="noopener">Code Repository&lt;/a>&lt;/p>
-&lt;/li>
 &lt;/ul>
+&lt;!-- * [String Algorithms (Coursera)](https://www.coursera.org/learn/algorithms-on-strings) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
+* [Advanced Algorithms and Analysis (Coursera)](https://www.coursera.org/learn/advanced-algorithms-and-complexity) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/) -->
 &lt;h2 id="machine-learning">Machine Learning&lt;/h2>
-&lt;p>I feel ML and AI represent tremendous potential for all future possibilities. However, it is critical that we treat the biology-inspired algorithms in a way that nature handles and processes them. There is a critical need to design new systems of the future which can handle the enourmous computation power needed to run these algorithms. I would like to learn mroe.&lt;/p>
 &lt;ul>
 &lt;li>
 &lt;p>&lt;a href="https://www.coursera.org/learn/machine-learning" target="_blank" rel="noopener">Machine Learning by Andrew Ng (Coursera)&lt;/a> - &lt;a href="https://github.com/adityamanglik/ml-coursera-python-assignments" target="_blank" rel="noopener">Code Repository&lt;/a>&lt;/p>
@@ -42,15 +43,11 @@
 &lt;p>&lt;a href="https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/" target="_blank" rel="noopener">Python and Numpy stack (Udemy)&lt;/a>&lt;/p>
 &lt;/li>
 &lt;/ul>
-&lt;h2 id="kaggle-competitions">Kaggle Competitions&lt;/h2>
-&lt;ul>
-&lt;li>
-&lt;p>&lt;a href="https://adityamanglik.github.io/post/first-kaggle-competition/">Titanic challenge&lt;/a> - &lt;a href="https://www.kaggle.com/carpediemed/kernel62281fa024" target="_blank" rel="noopener">Kaggle Notebook&lt;/a>&lt;/p>
-&lt;/li>
-&lt;li>
-&lt;p>Cats vs Dogs - &lt;a href="https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020" target="_blank" rel="noopener">Kaggle Notebook&lt;/a>&lt;/p>
-&lt;/li>
-&lt;/ul></description></item><item><title>STM32F7 microcontroller interfacing with STM32F4</title><link>https://adityamanglik.github.io/project/stm32/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/stm32/</guid><description>&lt;p>Documentation: &lt;a href="https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/" target="_blank" rel="noopener">https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a>&lt;/p></description></item><item><title>Power attribution and Estimation Engine in Linux</title><link>https://adityamanglik.github.io/project/linuxenergy/</link><pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/linuxenergy/</guid><description>&lt;p>Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.&lt;/p>
+&lt;!--
+## Kaggle Competitions
+* [Titanic challenge](/post/first-kaggle-competition/) - [Kaggle Notebook](https://www.kaggle.com/carpediemed/kernel62281fa024)
+* Cats vs Dogs - [Kaggle Notebook](https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020) --></description></item><item><title>Nand2tetris</title><link>https://adityamanglik.github.io/project/nand2tetris/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/nand2tetris/</guid><description>&lt;p>Interesting and useful course.&lt;/p>
+&lt;p>&lt;a href="https://www.coursera.org/learn/build-a-computer" target="_blank" rel="noopener">Coursera&lt;/a>&lt;/p></description></item><item><title>STM32F7 microcontroller interfacing with STM32F4</title><link>https://adityamanglik.github.io/project/stm32/</link><pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/stm32/</guid><description>&lt;p>Documentation: &lt;a href="https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/" target="_blank" rel="noopener">https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a>&lt;/p></description></item><item><title>Power attribution and Estimation Engine in Linux</title><link>https://adityamanglik.github.io/project/linuxenergy/</link><pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/linuxenergy/</guid><description>&lt;p>Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.&lt;/p>
 &lt;h2 id="project-log">Project Log&lt;/h2>
 &lt;ul>
 &lt;li>Problem and Motivation: Why: not all software is created equal. Some are more harmful than others, just like website have different footprints. We want fairness in energy consumption via quantification for each process&lt;/li>
@@ -129,4 +126,11 @@
 &lt;li>Toward Carbon-Aware Networking, Noa Zilberman, University of Oxford&lt;/li>
 &lt;li>&lt;a href="https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/" target="_blank" rel="noopener">https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&lt;/a>&lt;/li>
 &lt;li>&lt;a href="https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/" target="_blank" rel="noopener">https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/&lt;/a>&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/ul></description></item><item><title>PCB schematics for prototype waschmaschine</title><link>https://adityamanglik.github.io/project/mup_project/</link><pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/mup_project/</guid><description>&lt;p>This project was done as part of course requirements for the course “Microprocessors and Interfacing hardware” at BITS.
+The objective given was to design a completely automatic washing machine in Proteus software against given specifications.&lt;/p></description></item><item><title>Intelligent Industrial Disaster Management Robot</title><link>https://adityamanglik.github.io/project/kartikeyprojectapogee2016/</link><pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/kartikeyprojectapogee2016/</guid><description>&lt;p>The objective of the project was to develop a mobile robot which can tackle emergency situations in case of industrial accidents, such as gas leakage. The robot should be able to aid in search and rescue operations and have visual and audio systems on board for effective two way communication.&lt;/p></description></item><item><title>Adaptive Gait Generation for Hexapod</title><link>https://adityamanglik.github.io/project/adaptivegaitgeneration/</link><pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate><guid>https://adityamanglik.github.io/project/adaptivegaitgeneration/</guid><description>&lt;p>This project was inspired by natural phenomenon of adaptation witnessed in nature. Genetic Algorithm is used to generate gaits for a robot without manually inputting the gait in program source code. This means, the hexapod learns to walk on its own and is never taught walking by its human masters!&lt;/p>
+&lt;p>We also used GA to introduce the ability to adapt automatically in case of damage, just like animals do in nature! For example, whenever a dog gets hurt, it is quickly able to adapt to any damage and escape to safety. Our project tries to emulate the same, on a much smaller and slower scale. It is very hard to challenge nature in beauty and complexity!&lt;/p>
+&lt;p>This project won out of 50 other ideas presented in technical fest APOGEE 2016.&lt;/p>
+&lt;h2 id="public-artifacts">Public Artifacts&lt;/h2>
+&lt;p>Research Paper: &lt;a href="https://drive.google.com/open?id=0B8qjV3FXLM4bVEtacWQzYUNKM1U" target="_blank" rel="noopener">https://drive.google.com/open?id=0B8qjV3FXLM4bVEtacWQzYUNKM1U&lt;/a>&lt;/p>
+&lt;p>Arduino controller code: &lt;a href="https://github.com/adityamanglik/Hexapod-Controller_Arduino" target="_blank" rel="noopener">https://github.com/adityamanglik/Hexapod-Controller_Arduino&lt;/a>&lt;/p>
+&lt;p>MATLAB simulation for Genetic Algorithm: &lt;a href="https://github.com/adityamanglik/Spider-Gait-Simulator--Genetic-Algorithm" target="_blank" rel="noopener">https://github.com/adityamanglik/Spider-Gait-Simulator--Genetic-Algorithm&lt;/a>&lt;/p></description></item></channel></rss>
