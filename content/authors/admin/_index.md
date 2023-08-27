@@ -24,9 +24,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: Masterarbeit
+    institution: Columbia University (New York), USA
+    year: 2023
   - course: M.Sc. in Computer Engineering
     institution: ETH Zürich (Swiss Federal Institute of Technology in Zürich), Switzerland
-    year: 2023
+    year: 2021
   - course: Bachelorarbeit
     institution: Technische Universität Wien (Vienna University of Technology), Austria
     year: 2018
@@ -66,6 +69,6 @@ email: 'amangli@ethz.ch'
 highlight_name: true
 ---
 
-Hi! I am a graduate student at ETH Zürich, advised by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/). I am interested in systems, specializing in computer architecture and secure system design. Before joining ETH Zürich, I worked as a cloud engineer at Oracle Corporation for three years. 
+Hi! I am a graduate student at ETH Zürich, advised by [Prof. Onur Mutlu](https://people.inf.ethz.ch/omutlu/). I am interested in systems, specializing in energy efficient and secure system design. Before joining ETH Zürich, I worked as a cloud engineer at Oracle Corporation for three years. 
 
 I earned a Bachelor’s in Electrical Engineering (Hons.) from [BITS Pilani](https://en.wikipedia.org/wiki/Birla_Institute_of_Technology_and_Science,_Pilani) and wrote a bachelor's thesis at [TU Wien](https://en.wikipedia.org/wiki/TU_Wien) (supervised by [Prof. Muhammad Shafique](https://nyuad.nyu.edu/en/academics/divisions/engineering/faculty/muhammad-shafique.html) and [Prof. Surekha Bhanot](https://www.bits-pilani.ac.in/Pilani/surekha/profile)). My prior research focuses on Non-Volatile Memory microarchitectures for accelerating deep learning.
