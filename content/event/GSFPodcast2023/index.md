@@ -4,7 +4,7 @@ event: Green Software Foundation's podcast Environment Variables
 event_url: https://podcasts.bcast.fm/e/vn50x748-the-week-in-green-software-green-kernels
 location: Virtual
 summary: Linux process energy measurement
-abstract: Linux process energy measurement
+abstract: Podcast with Hongyu Hè and Chris Adams
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'

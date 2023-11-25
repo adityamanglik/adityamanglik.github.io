@@ -1,10 +1,10 @@
 ---
 title: Measuring Carbon Footprint of Personal Computing
 event: Linux Foundation Energy Summit-2023
-event_url: https://lfenergysummit2023.sched.com/event/1JYPU
+event_url: https://events.linuxfoundation.org/lfenergysummit/
 location: Paris, France
 summary: Linux process energy measurement
-abstract: Linux process energy measurement
+abstract: This talk aims to detail the recent developments in power tracking infrastructure in the Linux kernel for measuring the energy consumption of hardware devices and software applications.
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
@@ -16,14 +16,14 @@ date: 2023-06-02T13:55:00+02:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-10-06T00:00:00Z'
+publishDate: '2023-06-06T00:00:00Z'
 
 authors: 
   - admin
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: ""

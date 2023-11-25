@@ -1,5 +1,5 @@
 ---
-title: Talks
+title: Research Talks
 cms_exclude: true
 
 # View.
