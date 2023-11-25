@@ -5,12 +5,52 @@
     <link>https://adityamanglik.github.io/publication-type/1/</link>
       <atom:link href="https://adityamanglik.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://adityamanglik.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://adityamanglik.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>Resistive Crossbar-Aware Neural Network Design and Optimization</title>
+      <link>https://adityamanglik.github.io/publication/matsa/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/matsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Time Series Analysis via Processing using Non-Volatile Memories</title>
+      <link>https://adityamanglik.github.io/publication/neon/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/neon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory</title>
+      <link>https://adityamanglik.github.io/publication/revamp3d/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/revamp3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping</title>
+      <link>https://adityamanglik.github.io/publication/genpip_micro2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/genpip_micro2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A case for transparent reliability in DRAM systems</title>
+      <link>https://adityamanglik.github.io/publication/dram_minesh/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/dram_minesh/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Resistive Crossbar-Aware Neural Network Design and Optimization</title>

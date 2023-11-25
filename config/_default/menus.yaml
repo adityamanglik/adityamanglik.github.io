@@ -23,8 +23,8 @@ main:
   #   url: '#contact'
   #   weight: 60
 # TODO: Update CV link with actual resume
-  - name: CV
-    url: 'https://drive.google.com/file/d/1fS8YBUkUtOsw2aeMjQhd27hqNKmeVugo/view?usp=share_link'
+  - name: Resume
+    url: 'https://drive.google.com/file/d/18-dWtEMDtdYmH8KR_GSB5OChnkVjUPRX/view?usp=sharing'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

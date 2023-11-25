@@ -636,7 +636,7 @@
           
 
           <li class="nav-item">
-            <a class="nav-link " href="https://www.linkedin.com/in/adityamanglik/" target="_blank" rel="noopener"><span>CV</span></a>
+            <a class="nav-link " href="https://drive.google.com/file/d/1fS8YBUkUtOsw2aeMjQhd27hqNKmeVugo/view?usp=share_link" target="_blank" rel="noopener"><span>CV</span></a>
           </li>
 
           
@@ -771,7 +771,8 @@
       <p>Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.</p>
 <h2 id="project-log">Project Log</h2>
 <ul>
-<li>The What, Who, Why, When, Where, &amp; How of the Power Measurement problem: Link</li>
+<li>Problem and Motivation: Why: not all software is created equal. Some are more harmful than others, just like website have different footprints. We want fairness in energy consumption via quantification for each process</li>
+<li>The What, Who, Why, When, Where, &amp; How of the Power Measurement problem</li>
 <li>Windows Energy Estimation Engine breakdown: <a href="https://embeddedintelligence.wordpress.com/windows-energy-estimation-engine" target="_blank" rel="noopener">Link</a></li>
 <li>Windows System Power Report : <a href="https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-168-Powercfg-Sleep-Study" target="_blank" rel="noopener">Video 1</a>, <a href="https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-181-System-Power-Report" target="_blank" rel="noopener">Video 2</a></li>
 <li>MAC OS X Activity Monitor Power Impact breakdown: <a href="https://embeddedintelligence.wordpress.com/mac-os-x-energy-impact" target="_blank" rel="noopener">Link</a></li>
@@ -787,8 +788,22 @@
 <li>Next step = GPU in GNOME-Usage. <a href="https://drive.google.com/file/d/1kQZQLHIANHIsRSQXw_C3Uffz_SeDuQzg/view" target="_blank" rel="noopener">GSoC Proposal</a></li>
 <li><a href="https://software.intel.com/content/www/us/en/develop/documentation/energy-analysis-user-guide/top.html" target="_blank" rel="noopener">Intel CPU Energy analysis tool</a></li>
 </ul>
+<h2 id="known-tools-from-lfe-summit">Known tools (from LFE Summit)</h2>
+<ul>
+<li><a href="https://powerapi.org/" target="_blank" rel="noopener">PowerAPI</a></li>
+<li><a href="https://mlco2.github.io/codecarbon/index.html" target="_blank" rel="noopener">Code Carbon</a></li>
+<li><a href="https://www.cloudcarbonfootprint.org/" target="_blank" rel="noopener">Cloud Carbon Footprint</a></li>
+<li><a href="https://www.green-algorithms.org/app-user-guide/" target="_blank" rel="noopener">Green Algorithms calculator</a></li>
+<li><a href="https://greenframe.io/" target="_blank" rel="noopener">GreenFrame</a></li>
+</ul>
+<h2 id="kernel-developer">Kernel Developer</h2>
+<ul>
+<li><a href="wookey.org">wookey</a></li>
+</ul>
 <h2 id="relevant-research-papers">Relevant Research Papers</h2>
 <ul>
+<li>Performance is NOT same as energy &ndash; <a href="https://www.sciencedirect.com/science/article/pii/S0306261920304694" target="_blank" rel="noopener">https://www.sciencedirect.com/science/article/pii/S0306261920304694</a></li>
+<li>Good paper on power impact of managed languages: <a href="https://users.cecs.anu.edu.au/~steveb/pubs/papers/powerperf-asplos-2011.pdf" target="_blank" rel="noopener">https://users.cecs.anu.edu.au/~steveb/pubs/papers/powerperf-asplos-2011.pdf</a></li>
 <li><a href="https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/" target="_blank" rel="noopener">https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/</a></li>
 <li><a href="https://www.usenix.org/conference/atc12/technical-sessions/presentation/yoon" target="_blank" rel="noopener">AppScope: Application Energy Metering Framework for Android Smartphone Using Kernel Activity Monitoring</a></li>
 <li><a href="http://web.eece.maine.edu/~vweaver/projects/rapl/2016_memsys_rapl.pdf" target="_blank" rel="noopener">DRAM Power Measurement with RAPL</a></li>
@@ -798,6 +813,12 @@
 <li><a href="https://dl.acm.org/doi/pdf/10.1145/3194078.3194079" target="_blank" rel="noopener">https://dl.acm.org/doi/pdf/10.1145/3194078.3194079</a></li>
 <li><a href="https://dl.acm.org/doi/10.1145/3229631.3229633" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3229631.3229633</a></li>
 <li><a href="https://dl.acm.org/doi/pdf/10.5555/2872599.2872613" target="_blank" rel="noopener">https://dl.acm.org/doi/pdf/10.5555/2872599.2872613</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3575693.3575709" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3575693.3575709</a></li>
+<li><a href="https://dl.acm.org/doi/10.1145/3575693.3575754" target="_blank" rel="noopener">https://dl.acm.org/doi/10.1145/3575693.3575754</a></li>
+</ul>
+<h2 id="data-collection-sources">Data collection sources</h2>
+<ul>
+<li>Tracy: Can collect data from HPC systems for workloads to fine-tune the model</li>
 </ul>
 <h2 id="resources">Resources</h2>
 <ul>
@@ -815,6 +836,17 @@
 <li><a href="https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/" target="_blank" rel="noopener">https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/</a></li>
 <li><a href="https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957" target="_blank" rel="noopener">https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957</a></li>
 <li><a href="https://sites.google.com/view/energy-efficiency-languages/home" target="_blank" rel="noopener">https://sites.google.com/view/energy-efficiency-languages/home</a></li>
+</ul>
+<h2 id="links-from-lfe">Links from LFE</h2>
+<ul>
+<li><a href="https://greensoftware.foundation/projects/" target="_blank" rel="noopener">https://greensoftware.foundation/projects/</a></li>
+<li><a href="https://greensoftware.foundation/articles/software-carbon-intensity-sci-specification-project" target="_blank" rel="noopener">https://greensoftware.foundation/articles/software-carbon-intensity-sci-specification-project</a></li>
+<li><a href="https://codecarbon.io/#howitwork" target="_blank" rel="noopener">https://codecarbon.io/#howitwork</a></li>
+<li><a href="https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/" target="_blank" rel="noopener">https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/</a></li>
+<li><a href="https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/" target="_blank" rel="noopener">https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/</a></li>
+<li>Toward Carbon-Aware Networking, Noa Zilberman, University of Oxford</li>
+<li><a href="https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/" target="_blank" rel="noopener">https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/</a></li>
+<li><a href="https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/" target="_blank" rel="noopener">https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/</a></li>
 </ul>
 
     </div>
@@ -936,7 +968,7 @@
   <div class="media author-card content-widget-hr">
     
       
-      <a href="https://adityamanglik.github.io/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_huf9fa7604cdda2daebc8746c279953894_370171_270x270_fill_q75_lanczos_center.jpg" alt="Aditya Manglik"></a>
+      <a href="https://adityamanglik.github.io/"><img class="avatar mr-3 avatar-square" src="/authors/admin/BKP_avatar_huf9fa7604cdda2daebc8746c279953894_370171_270x270_fill_q75_lanczos_center.jpg" alt="Aditya Manglik"></a>
     
 
     <div class="media-body">
@@ -944,6 +976,21 @@
       
       
       <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:reach.aditya.here&#43;public@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
   
     
     
@@ -1096,7 +1143,7 @@
   
 
 
-<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+<script src="/js/vendor-bundle.min.b4708d4364577c16ab7001b265a063a4.js"></script>
 
 
 
@@ -1151,7 +1198,7 @@
 
 
 
-<script src="/en/js/wowchemy.min.5f2242f9e416ca8987b1818a173b5651.js"></script>
+<script src="/en/js/wowchemy.min.aff6e28815892750cc47e9e239b36593.js"></script>
 
 
 

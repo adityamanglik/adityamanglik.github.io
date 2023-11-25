@@ -5,12 +5,91 @@
     <link>https://adityamanglik.github.io/</link>
       <atom:link href="https://adityamanglik.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>adityamanglik.github.io</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 20 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 13:55:00 +0200</lastBuildDate>
     <image>
       <url>https://adityamanglik.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>adityamanglik.github.io</title>
       <link>https://adityamanglik.github.io/</link>
     </image>
+    
+    <item>
+      <title>GSF Podcast on Green Kernels</title>
+      <link>https://adityamanglik.github.io/talk/gsf-podcast-on-green-kernels/</link>
+      <pubDate>Thu, 10 Aug 2023 13:55:00 +0200</pubDate>
+      <guid>https://adityamanglik.github.io/talk/gsf-podcast-on-green-kernels/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;It was a lot of fun to dive into these challenges with Hongyu Hè and Chris Adams on the &lt;a href=&#34;https://podcasts.bcast.fm/e/vn50x748-the-week-in-green-software-green-kernels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Environment Variables&lt;/a&gt; podcast hosted by the &lt;a href=&#34;https://greensoftware.foundation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Software Foundation&lt;/a&gt;!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Podcast: &lt;a href=&#34;https://podcasts.bcast.fm/e/vn50x748-the-week-in-green-software-green-kernels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://podcasts.bcast.fm/e/vn50x748-the-week-in-green-software-green-kernels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Spotify link: &lt;a href=&#34;https://open.spotify.com/episode/4URrFAj6jvuavfXnIhI1S3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://open.spotify.com/episode/4URrFAj6jvuavfXnIhI1S3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Apple podcasts link: &lt;a href=&#34;https://podcasts.apple.com/us/podcast/the-week-in-green-software-green-kernels/id1618265745?i=1000624014260&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://podcasts.apple.com/us/podcast/the-week-in-green-software-green-kernels/id1618265745?i=1000624014260&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring Carbon Footprint of Personal Computing</title>
+      <link>https://adityamanglik.github.io/talk/measuring-carbon-footprint-of-personal-computing/</link>
+      <pubDate>Fri, 02 Jun 2023 13:55:00 +0200</pubDate>
+      <guid>https://adityamanglik.github.io/talk/measuring-carbon-footprint-of-personal-computing/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;The talk focuses on power measurement and attribution for software (processes) and hardware devices. The objective is to detail the developments in power tracking infrastructure in the Linux kernel for measuring the energy consumption of hardware devices and software applications. These statistics are extremely useful for both end-users and developers. The focus would be on a detailed discussion of multivariate regression models to determine application and hardware device energy consumption. There are also privacy concerns attached to this data, which need feedback from more developers. LF Energy Summit would be a great platform to present the work to the developer community and get feedback to improve the system design. Talk Outline 1) Understanding why power consumption is a first-class design constraint in modern systems, including desktop, server, and mobile-class systems 2) Demonstrating the value of power consumption across different stakeholders, including end-users, application programmers, kernel developers, and system designers 3) Survey results from corresponding systems in competing environments and OS 4) System design proposal and evaluation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Travel log</title>
+      <link>https://adityamanglik.github.io/project/travel_log/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/travel_log/</guid>
+      <description>&lt;!-- ## Google map --&gt;
+&lt;p&gt;A simple travel log to make the memories permanent. I enjoy travelling, and have visited the following places:&lt;/p&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/d/embed?mid=1lVq3NQHgcI9frgwqu5SU76v6h1LU2Y8&amp;usp=sharing&#34; width=&#34;800&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Resistive Crossbar-Aware Neural Network Design and Optimization</title>
+      <link>https://adityamanglik.github.io/publication/matsa/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/matsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Time Series Analysis via Processing using Non-Volatile Memories</title>
+      <link>https://adityamanglik.github.io/publication/neon/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/neon/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Course log</title>
@@ -20,6 +99,12 @@
       <description>&lt;h2 id=&#34;courses-completed-certificates-available-on-linkedinhttpswwwlinkedincominadityamanglik&#34;&gt;Courses Completed (&lt;a href=&#34;https://www.linkedin.com/in/adityamanglik/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificates available on LinkedIn&lt;/a&gt;)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/learning-how-to-learn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning How to Learn (Coursera)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/adityamanglik/Online_Courses/Fundamentals%20of%20Parallelism%20in%20Intel%20Architectures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fundamentals of Parallelism in Intel Architectures (Coursera)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/algorithmic-toolbox&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Algorithms (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -28,15 +113,11 @@
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/algorithms-on-graphs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph Algorithms (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/algorithms-on-strings&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;String Algorithms (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/advanced-algorithms-and-complexity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced Algorithms and Analysis (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
 &lt;/ul&gt;
+&lt;!-- * [String Algorithms (Coursera)](https://www.coursera.org/learn/algorithms-on-strings) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
+
+* [Advanced Algorithms and Analysis (Coursera)](https://www.coursera.org/learn/advanced-algorithms-and-complexity) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/) --&gt;
 &lt;h2 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h2&gt;
-&lt;p&gt;I feel ML and AI represent tremendous potential for all future possibilities. However, it is critical that we treat the biology-inspired algorithms in a way that nature handles and processes them. There is a critical need to design new systems of the future which can handle the enourmous computation power needed to run these algorithms. I would like to learn mroe.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning by Andrew Ng (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/ml-coursera-python-assignments&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
@@ -59,15 +140,21 @@
 &lt;p&gt;&lt;a href=&#34;https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python and Numpy stack (Udemy)&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;kaggle-competitions&#34;&gt;Kaggle Competitions&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;a href=&#34;https://adityamanglik.github.io/post/first-kaggle-competition/&#34;&gt;Titanic challenge&lt;/a&gt; - &lt;a href=&#34;https://www.kaggle.com/carpediemed/kernel62281fa024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Notebook&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Cats vs Dogs - &lt;a href=&#34;https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle Notebook&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- 
+## Kaggle Competitions
+
+* [Titanic challenge](/post/first-kaggle-competition/) - [Kaggle Notebook](https://www.kaggle.com/carpediemed/kernel62281fa024)
+
+* Cats vs Dogs - [Kaggle Notebook](https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020) --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nand2tetris</title>
+      <link>https://adityamanglik.github.io/project/nand2tetris/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/nand2tetris/</guid>
+      <description>&lt;p&gt;Interesting and useful course.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/build-a-computer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coursera&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -77,6 +164,76 @@
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://adityamanglik.github.io/project/stm32/</guid>
       <description>&lt;p&gt;Documentation: &lt;a href=&#34;https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory</title>
+      <link>https://adityamanglik.github.io/publication/revamp3d/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/revamp3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping</title>
+      <link>https://adityamanglik.github.io/publication/genpip_micro2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/genpip_micro2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Energy measurement in GNOME-Usage</title>
+      <link>https://adityamanglik.github.io/talk/energy-measurement-in-gnome-usage/</link>
+      <pubDate>Wed, 20 Jul 2022 00:10:54 +0530</pubDate>
+      <guid>https://adityamanglik.github.io/talk/energy-measurement-in-gnome-usage/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A case for transparent reliability in DRAM systems</title>
+      <link>https://adityamanglik.github.io/publication/dram_minesh/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/dram_minesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Research seminar on the paper on Optimizing Google Workloads for Consumer Devices</title>
+      <link>https://adityamanglik.github.io/talk/research-seminar-on-the-paper-on-optimizing-google-workloads-for-consumer-devices/</link>
+      <pubDate>Thu, 23 Dec 2021 00:10:54 +0530</pubDate>
+      <guid>https://adityamanglik.github.io/talk/research-seminar-on-the-paper-on-optimizing-google-workloads-for-consumer-devices/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
     </item>
     
@@ -108,7 +265,8 @@ Look forward to hearing from you!&lt;/p&gt;
       <description>&lt;p&gt;Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.&lt;/p&gt;
 &lt;h2 id=&#34;project-log&#34;&gt;Project Log&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;The What, Who, Why, When, Where, &amp;amp; How of the Power Measurement problem: Link&lt;/li&gt;
+&lt;li&gt;Problem and Motivation: Why: not all software is created equal. Some are more harmful than others, just like website have different footprints. We want fairness in energy consumption via quantification for each process&lt;/li&gt;
+&lt;li&gt;The What, Who, Why, When, Where, &amp;amp; How of the Power Measurement problem&lt;/li&gt;
 &lt;li&gt;Windows Energy Estimation Engine breakdown: &lt;a href=&#34;https://embeddedintelligence.wordpress.com/windows-energy-estimation-engine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;Windows System Power Report : &lt;a href=&#34;https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-168-Powercfg-Sleep-Study&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video 1&lt;/a&gt;, &lt;a href=&#34;https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-181-System-Power-Report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video 2&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;MAC OS X Activity Monitor Power Impact breakdown: &lt;a href=&#34;https://embeddedintelligence.wordpress.com/mac-os-x-energy-impact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
@@ -124,8 +282,22 @@ Look forward to hearing from you!&lt;/p&gt;
 &lt;li&gt;Next step = GPU in GNOME-Usage. &lt;a href=&#34;https://drive.google.com/file/d/1kQZQLHIANHIsRSQXw_C3Uffz_SeDuQzg/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSoC Proposal&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://software.intel.com/content/www/us/en/develop/documentation/energy-analysis-user-guide/top.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intel CPU Energy analysis tool&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;known-tools-from-lfe-summit&#34;&gt;Known tools (from LFE Summit)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://powerapi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PowerAPI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mlco2.github.io/codecarbon/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Carbon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudcarbonfootprint.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud Carbon Footprint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.green-algorithms.org/app-user-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Algorithms calculator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://greenframe.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreenFrame&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kernel-developer&#34;&gt;Kernel Developer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;wookey.org&#34;&gt;wookey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;relevant-research-papers&#34;&gt;Relevant Research Papers&lt;/h2&gt;
 &lt;ul&gt;
+&lt;li&gt;Performance is NOT same as energy &amp;ndash; &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0306261920304694&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S0306261920304694&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Good paper on power impact of managed languages: &lt;a href=&#34;https://users.cecs.anu.edu.au/~steveb/pubs/papers/powerperf-asplos-2011.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://users.cecs.anu.edu.au/~steveb/pubs/papers/powerperf-asplos-2011.pdf&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.usenix.org/conference/atc12/technical-sessions/presentation/yoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AppScope: Application Energy Metering Framework for Android Smartphone Using Kernel Activity Monitoring&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;http://web.eece.maine.edu/~vweaver/projects/rapl/2016_memsys_rapl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DRAM Power Measurement with RAPL&lt;/a&gt;&lt;/li&gt;
@@ -135,6 +307,12 @@ Look forward to hearing from you!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3194078.3194079&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/pdf/10.1145/3194078.3194079&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3229631.3229633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/10.1145/3229631.3229633&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.5555/2872599.2872613&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/pdf/10.5555/2872599.2872613&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3575693.3575709&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/10.1145/3575693.3575709&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3575693.3575754&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/10.1145/3575693.3575754&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-collection-sources&#34;&gt;Data collection sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tracy: Can collect data from HPC systems for workloads to fine-tune the model&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
 &lt;ul&gt;
@@ -153,6 +331,40 @@ Look forward to hearing from you!&lt;/p&gt;
 &lt;li&gt;&lt;a href=&#34;https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/energy-efficiency-languages/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/energy-efficiency-languages/home&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h2 id=&#34;links-from-lfe&#34;&gt;Links from LFE&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://greensoftware.foundation/projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://greensoftware.foundation/projects/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://greensoftware.foundation/articles/software-carbon-intensity-sci-specification-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://greensoftware.foundation/articles/software-carbon-intensity-sci-specification-project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codecarbon.io/#howitwork&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codecarbon.io/#howitwork&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Toward Carbon-Aware Networking, Noa Zilberman, University of Oxford&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving energy efficiency in modern systems</title>
+      <link>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</link>
+      <pubDate>Wed, 22 Jul 2020 00:10:54 +0530</pubDate>
+      <guid>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
     </item>
     
@@ -177,6 +389,29 @@ Look forward to hearing from you!&lt;/p&gt;
 
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving energy efficiency in modern systems</title>
+      <link>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</link>
+      <pubDate>Thu, 10 Oct 2019 00:10:54 +0530</pubDate>
+      <guid>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
 </description>
     </item>
     
@@ -325,6 +560,101 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Chennai Diaries</title>
+      <link>https://adityamanglik.github.io/post/chennai/</link>
+      <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/post/chennai/</guid>
+      <description>&lt;p&gt;I stayed in Chennai from May 22, 2016 till July 17, 2016 as part of Practice School-1 program by BITS Pilani. During this time I interned as an embedded systems trainee at CSIR- CEERI, Madras. This experience taught me a lot of things, from scrambling with basic(read: barely enough) Tamil in crowded (MTC) buses to hands on training with STM32 family of embedded MCUs.&lt;/p&gt;
+&lt;p&gt;North and South India are like two poles apart when it comes to various aspects of life, yet the same. I will miss the filter coffee when I go back to my humble abode in Pilani.&lt;/p&gt;
+&lt;p&gt;Overall, it was a delightful experience to get to know more about my country and its colorful inhabitants.&lt;/p&gt;
+&lt;h1 id=&#34;summers-at-csir-ceeri-chennai&#34;&gt;Summers at CSIR-CEERI, Chennai&lt;/h1&gt;
+&lt;p&gt;If you have stumbled across this page hopelessly looking for some information to find about Central Electronics Engineering Research Institute, Chennai apart from their &lt;a href=&#34;www.ceerichennai.org&#34;&gt;mediocre website&lt;/a&gt;, well, you have come to the right place.&lt;/p&gt;
+&lt;p&gt;I interned at CEERI Chennai as part of Practice School-I program at BITS Pilani. The internship lasted nearly 2 months and had its share of highs and lows. By the time you have finished reading this page, you should have a basic idea of what to expect. The following content was originally written targeted at fellow(junior?) BITSians who might get this center as part of their PS. However, everybody is welcome to go with the flow.&lt;/p&gt;
+&lt;p&gt;First and foremost, CEERI Chennai is NOT located at the &lt;a href=&#34;https://www.google.com/maps/place/Central&amp;#43;Electronics&amp;#43;Engineering&amp;#43;Research&amp;#43;Institute&amp;#43;%28C.&amp;#43;E.&amp;#43;E.&amp;#43;R.&amp;#43;I%29/@12.9786888,80.2380895,17z/data=!3m1!4b1!4m5!3m4!1s0x3a525d7a7efd332f:0xb3c397fa50a651d4!8m2!3d12.9786836!4d80.2402782&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;place indicated by Google Maps&lt;/a&gt;. The correct location for CEERI, Chennai is in CSIR Madras Complex on the CSIR Road, opposite Ascendas Building. &lt;a href=&#34;https://www.google.co.in/maps/@12.9880338,80.2445226,18.25z?hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Precisely, here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I have submitted an update to Google Maps for wrong information. Hopefully, it will be corrected soon.&lt;/p&gt;
+&lt;p&gt;Now, coming to heart of the matter. CEERI Chennai is an autonomous, government funded research institute focusing on industrial projects. Yes, you read that right. Scientists here have executed a number of projects for the industry, which include an industrial grade fruit sorter, professionally designed embedded systems, spectrometer, soil analysis using machine learning, fatigue detection kit(read: wearable technology) etc. Labs here are very well equipped with no dearth of latest development boards and platforms. For instance, I worked on the latest STM32F7 Discovery MCU with &lt;a href=&#34;www.keil.com/product/&#34;&gt;ARM Keil&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Campus&lt;/em&gt;- CSIR Madras Complex(CMC) campus is very beautiful. Built in 1960’s, the infrastructure is well maintained, clean and green. Don’t expect very modern buildings and swanky, sparkling labs with electronics whirring around you. This is a research institute and not a shooting set for Star Trek.&lt;/p&gt;
+&lt;p&gt;The campus has a lot of greenery and you will find your stay to be a pleasurable experience. Almost all labs are air conditioned, which helps in Chennai’s humid weather. Go for a tour around the campus and get to know the different research centers.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Food&lt;/em&gt;- Many options for food are available easily, ranging from 25 Rs to 250 Rs. for one time meal. In order of increasing price:–&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Campus Canteen- It is located just behind CEERI building. Serving coffee for Rs. 7, puri masala, curd rice for Rs. 12 and even a lunch meal(one full thali) for Rs. 25,  the cheapest option available here for food. The quantity is good but the taste is, well, you get what you pay for. If you come early enough in morning(around 9:00 AM) you can even have your breakfast here.&lt;/li&gt;
+&lt;li&gt;Buffet at guest house- Not always available and limited seats, but for Rs. 50 you can have an amazing buffet with very decent and tasty food. Ask around for directions to the guest house and buy the token from reception at 1:00 PM. Be warned, they issue tokens at their discretion only. This buffet is not available for everyone due to limited quantity of preparation. However, do have one time lunch here. Definitely recommended as part of the CEERI experience.&lt;/li&gt;
+&lt;li&gt;Ascendas Food court- Located opposite CSIR complex, cross the CSIR road and enter foodie heaven. Featuring outlets from Subway, Pizza Hut, Dominos and Sarvana Bhawan to name a few, Ascendas Food court will never disappoint you when it comes to options and quality. However, be prepared to shell out good money if you plan to dine here for an entire month or two.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Scientists- Researchers here are hard working, generally. Most of them are very helpful if you know what you want to work on. You will find very good projects if you are willing to roll up those sleeves and plunge headfirst. However, be warned that hard work and perseverance is a must. Most of the projects here are far above the knowledge of your average sophomore. You will learn a lot, only if you want to learn a lot.&lt;/p&gt;
+&lt;p&gt;Touring Chennai- Taramani is well connected to other parts of Chennai by bus, auto and even the Chennai local train. If you want to hang out, you can go to Thiruvanmiyur, Velachery(read: Phoenix mall) and Elliot’s beach in Besant Nagar.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.google.com/maps/d/u/2/edit?mid=1K3oGjLyJYGlxh_j48M-diGnLmYA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out this map for good places to visit in Chennai.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Flashing the BeagleBone Black</title>
+      <link>https://adityamanglik.github.io/post/beaglebone/</link>
+      <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/post/beaglebone/</guid>
+      <description>&lt;p&gt;There are many ways to flash a &lt;a href=&#34;https://beagleboard.org/black&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BeagleBone Black&lt;/a&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Boot off of SD Card&lt;/li&gt;
+&lt;li&gt;Flash from a Flasher image&lt;/li&gt;
+&lt;li&gt;Flash using the BBBlfs&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here is a bit of a hardcore way to do it if all else fails.&lt;/p&gt;
+&lt;p&gt;First of all boot using the SD card and ensure that your system works. This should not be a problem.&lt;/p&gt;
+&lt;p&gt;Next step is to dd the SD card&amp;rsquo;s image to the on board eMMC. Since the SD card works, if we simply copy the disks, the onboard memory should work perfectly as well!&lt;/p&gt;
+&lt;p&gt;Unmount the filesystem(all disks) using this command:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;mount -o remount,ro / &lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;If it says / is busy, we have to make the root filesystem boot in read only. To do this, go to /etc/fstab and make the following changes&lt;/p&gt;
+&lt;p&gt;Change the entry&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/dev/sda1 / ext2 relatime,rw,errors=remount-ro 0 1&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;to&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;/dev/sda1 / ext2 noatime,ro 0 1&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Restart the BBB and boot from the SD once again.
+Now issue the following command:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;dd if=/dev/mmcblk0 of=/dev/mmcblk1&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;The above command assumes SD located at blk0 and eMMC located at blk1. Please check this using the fdisk -l output and issue the correct command.
+At the end of this process,remount your filesystem using this command&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;mount -o remount,rw /&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Now undo the changes you made to fstab file and enjoy!&lt;/p&gt;
+&lt;h2 id=&#34;common-mistakes&#34;&gt;Common Mistakes&lt;/h2&gt;
+&lt;p&gt;Check if your BBB has 2 GB(Rev B) on board memory of 4 GB(Rev C). Please select and download the appropriate image from the image download page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PCB schematics for prototype waschmaschine</title>
+      <link>https://adityamanglik.github.io/project/mup_project/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/mup_project/</guid>
+      <description>&lt;p&gt;This project was done as part of course requirements for the course “Microprocessors and Interfacing hardware” at BITS.
+The objective given was to design a completely automatic washing machine in Proteus software against given specifications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intelligent Industrial Disaster Management Robot</title>
+      <link>https://adityamanglik.github.io/project/kartikeyprojectapogee2016/</link>
+      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/kartikeyprojectapogee2016/</guid>
+      <description>&lt;p&gt;The objective of the project was to develop a mobile robot which can tackle emergency situations in case of industrial accidents, such as gas leakage. The robot should be able to aid in search and rescue operations and have visual and audio systems on board for effective two way communication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Gait Generation for Hexapod</title>
+      <link>https://adityamanglik.github.io/project/adaptivegaitgeneration/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/adaptivegaitgeneration/</guid>
+      <description>&lt;p&gt;This project was inspired by natural phenomenon of adaptation witnessed in nature. Genetic Algorithm is used to generate gaits for a robot without manually inputting the gait in program source code. This means, the hexapod learns to walk on its own and is never taught walking by its human masters!&lt;/p&gt;
+&lt;p&gt;We also used GA to introduce the ability to adapt automatically in case of damage, just like animals do in nature! For example, whenever a dog gets hurt, it is quickly able to adapt to any damage and escape to safety. Our project tries to emulate the same, on a much smaller and slower scale. It is very hard to challenge nature in beauty and complexity!&lt;/p&gt;
+&lt;p&gt;This project won out of 50 other ideas presented in technical fest APOGEE 2016.&lt;/p&gt;
+&lt;h2 id=&#34;public-artifacts&#34;&gt;Public Artifacts&lt;/h2&gt;
+&lt;p&gt;Research Paper: &lt;a href=&#34;https://drive.google.com/open?id=0B8qjV3FXLM4bVEtacWQzYUNKM1U&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://drive.google.com/open?id=0B8qjV3FXLM4bVEtacWQzYUNKM1U&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Arduino controller code: &lt;a href=&#34;https://github.com/adityamanglik/Hexapod-Controller_Arduino&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/adityamanglik/Hexapod-Controller_Arduino&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MATLAB simulation for Genetic Algorithm: &lt;a href=&#34;https://github.com/adityamanglik/Spider-Gait-Simulator--Genetic-Algorithm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/adityamanglik/Spider-Gait-Simulator--Genetic-Algorithm&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
