@@ -28,7 +28,7 @@ education:
   - course: Master's Thesis
     institution: Columbia University (New York), USA
     year: 2023
-  - course: M.Sc. in Electrical Engineering
+  - course: M.Sc. in Electrical Engineering (In-progress)
     institution: ETH Zürich (Swiss Federal Institute of Technology in Zürich), Switzerland
     year: 2021
   - course: Bachelor's Thesis
