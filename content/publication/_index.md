@@ -10,5 +10,4 @@ banner:
   caption: ''
   image: ''
 ---
-## Google Scholar: https://scholar.google.com/citations?user=hEy3GXAAAAAJ&hl=en
-## List of Publications
+#### Google Scholar: https://scholar.google.com/citations?user=hEy3GXAAAAAJ&hl=en
