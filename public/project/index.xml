@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | adityamanglik.github.io</title>
-    <link>https://adityamanglik.github.io/project/</link>
-      <atom:link href="https://adityamanglik.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <title>Projects | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://adityamanglik.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Projects</title>
-      <link>https://adityamanglik.github.io/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>Travel log</title>
-      <link>https://adityamanglik.github.io/project/travel_log/</link>
+      <link>http://localhost:1313/project/travel_log/</link>
       <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://adityamanglik.github.io/project/travel_log/</guid>
+      <guid>http://localhost:1313/project/travel_log/</guid>
       <description>&lt;!-- ## Google map --&gt;
 &lt;p&gt;A simple travel log to make the memories permanent. I enjoy travelling, and have visited the following places:&lt;/p&gt;
 &lt;iframe src=&#34;https://www.google.com/maps/d/embed?mid=1lVq3NQHgcI9frgwqu5SU76v6h1LU2Y8&amp;usp=sharing&#34; width=&#34;800&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;</description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>Course log</title>
-      <link>https://adityamanglik.github.io/project/course_log/</link>
+      <link>http://localhost:1313/project/course_log/</link>
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://adityamanglik.github.io/project/course_log/</guid>
+      <guid>http://localhost:1313/project/course_log/</guid>
       <description>&lt;h2 id=&#34;courses-completed-certificates-available-on-linkedinhttpswwwlinkedincominadityamanglik&#34;&gt;Courses Completed (&lt;a href=&#34;https://www.linkedin.com/in/adityamanglik/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificates available on LinkedIn&lt;/a&gt;)&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -81,9 +81,9 @@
     
     <item>
       <title>Nand2tetris</title>
-      <link>https://adityamanglik.github.io/project/nand2tetris/</link>
+      <link>http://localhost:1313/project/nand2tetris/</link>
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://adityamanglik.github.io/project/nand2tetris/</guid>
+      <guid>http://localhost:1313/project/nand2tetris/</guid>
       <description>&lt;p&gt;Interesting and useful course.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/build-a-computer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coursera&lt;/a&gt;&lt;/p&gt;
 </description>
@@ -91,18 +91,18 @@
     
     <item>
       <title>STM32F7 microcontroller interfacing with STM32F4</title>
-      <link>https://adityamanglik.github.io/project/stm32/</link>
+      <link>http://localhost:1313/project/stm32/</link>
       <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://adityamanglik.github.io/project/stm32/</guid>
+      <guid>http://localhost:1313/project/stm32/</guid>
       <description>&lt;p&gt;Documentation: &lt;a href=&#34;https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Power attribution and Estimation Engine in Linux</title>
-      <link>https://adityamanglik.github.io/project/linuxenergy/</link>
+      <link>http://localhost:1313/project/linuxenergy/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://adityamanglik.github.io/project/linuxenergy/</guid>
+      <guid>http://localhost:1313/project/linuxenergy/</guid>
       <description>&lt;p&gt;Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.&lt;/p&gt;
 &lt;h2 id=&#34;project-log&#34;&gt;Project Log&lt;/h2&gt;
 &lt;ul&gt;
@@ -188,9 +188,9 @@
     
     <item>
       <title>PCB schematics for prototype waschmaschine</title>
-      <link>https://adityamanglik.github.io/project/mup_project/</link>
+      <link>http://localhost:1313/project/mup_project/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://adityamanglik.github.io/project/mup_project/</guid>
+      <guid>http://localhost:1313/project/mup_project/</guid>
       <description>&lt;p&gt;This project was done as part of course requirements for the course “Microprocessors and Interfacing hardware” at BITS.
 The objective given was to design a completely automatic washing machine in Proteus software against given specifications.&lt;/p&gt;
 </description>
@@ -198,18 +198,18 @@ The objective given was to design a completely automatic washing machine in Prot
     
     <item>
       <title>Intelligent Industrial Disaster Management Robot</title>
-      <link>https://adityamanglik.github.io/project/kartikeyprojectapogee2016/</link>
+      <link>http://localhost:1313/project/kartikeyprojectapogee2016/</link>
       <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>https://adityamanglik.github.io/project/kartikeyprojectapogee2016/</guid>
+      <guid>http://localhost:1313/project/kartikeyprojectapogee2016/</guid>
       <description>&lt;p&gt;The objective of the project was to develop a mobile robot which can tackle emergency situations in case of industrial accidents, such as gas leakage. The robot should be able to aid in search and rescue operations and have visual and audio systems on board for effective two way communication.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Adaptive Gait Generation for Hexapod</title>
-      <link>https://adityamanglik.github.io/project/adaptivegaitgeneration/</link>
+      <link>http://localhost:1313/project/adaptivegaitgeneration/</link>
       <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>https://adityamanglik.github.io/project/adaptivegaitgeneration/</guid>
+      <guid>http://localhost:1313/project/adaptivegaitgeneration/</guid>
       <description>&lt;p&gt;This project was inspired by natural phenomenon of adaptation witnessed in nature. Genetic Algorithm is used to generate gaits for a robot without manually inputting the gait in program source code. This means, the hexapod learns to walk on its own and is never taught walking by its human masters!&lt;/p&gt;
 &lt;p&gt;We also used GA to introduce the ability to adapt automatically in case of damage, just like animals do in nature! For example, whenever a dog gets hurt, it is quickly able to adapt to any damage and escape to safety. Our project tries to emulate the same, on a much smaller and slower scale. It is very hard to challenge nature in beauty and complexity!&lt;/p&gt;
 &lt;p&gt;This project won out of 50 other ideas presented in technical fest APOGEE 2016.&lt;/p&gt;

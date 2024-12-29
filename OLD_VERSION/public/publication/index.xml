@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | adityamanglik.github.io</title>
+    <link>https://adityamanglik.github.io/publication/</link>
+      <atom:link href="https://adityamanglik.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adityamanglik.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://adityamanglik.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Resistive Crossbar-Aware Neural Network Design and Optimization</title>
+      <link>https://adityamanglik.github.io/publication/matsa/</link>
+      <pubDate>Sat, 26 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/matsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accelerating Time Series Analysis via Processing using Non-Volatile Memories</title>
+      <link>https://adityamanglik.github.io/publication/neon/</link>
+      <pubDate>Tue, 08 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/neon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RevaMp3D: Architecting the Processor Core and Cache Hierarchy for Systems with Monolithically-Integrated Logic and Memory</title>
+      <link>https://adityamanglik.github.io/publication/revamp3d/</link>
+      <pubDate>Sun, 16 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/revamp3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping</title>
+      <link>https://adityamanglik.github.io/publication/genpip_micro2022/</link>
+      <pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/genpip_micro2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A case for transparent reliability in DRAM systems</title>
+      <link>https://adityamanglik.github.io/publication/dram_minesh/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/dram_minesh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resistive Crossbar-Aware Neural Network Design and Optimization</title>
+      <link>https://adityamanglik.github.io/publication/access_2021/</link>
+      <pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/publication/access_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Gait Generation for Hexapod robot using Genetic Algorithm</title>
+      <link>https://adityamanglik.github.io/publication/adaptive_gait_icpeices_2016/</link>
+      <pubDate>Thu, 16 Apr 2020 15:40:56 +0530</pubDate>
+      <guid>https://adityamanglik.github.io/publication/adaptive_gait_icpeices_2016/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

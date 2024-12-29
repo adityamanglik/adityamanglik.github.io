@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | adityamanglik.github.io</title>
-    <link>https://adityamanglik.github.io/post/</link>
-      <atom:link href="https://adityamanglik.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <title>Posts | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://adityamanglik.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Posts</title>
-      <link>https://adityamanglik.github.io/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
+      <title>New York Diaries</title>
+      <link>http://localhost:1313/post/nyc/</link>
+      <pubDate>Sat, 09 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/nyc/</guid>
+      <description>&lt;p&gt;New York City is a blast. To be continued&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Standing Invitation</title>
-      <link>https://adityamanglik.github.io/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://adityamanglik.github.io/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;p&gt;Inspired from &lt;a href=&#34;https://www.kalzumeus.com/standing-invitation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Patrick McKenzie&lt;/a&gt;.
 My email address is reach.aditya.here@ world&amp;rsquo;s most popular email service. I strongly prefer email as a communication method.&lt;/p&gt;
 &lt;p&gt;Would appreciate if you read &lt;a href=&#34;https://hbr.org/2016/09/a-guide-to-cold-emailing&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;some tips on emailing&lt;/a&gt; first as that would be helpful for both of us.
@@ -25,10 +34,19 @@ Look forward to hearing from you!&lt;/p&gt;
     </item>
     
     <item>
+      <title>Vienna Diaries</title>
+      <link>http://localhost:1313/post/vienna/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/vienna/</guid>
+      <description>&lt;p&gt;I stayed in Vienna from Jan 17, 2018 till July 16, 2018 as part of a Bachelor&amp;rsquo;s thesis at TU Vienna and BITS Pilani. This experience was a milestone in my life, and forever changed the way I looked at things. Vienna is my favorite city in the world, and for good reasons&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Chennai Diaries</title>
-      <link>https://adityamanglik.github.io/post/chennai/</link>
+      <link>http://localhost:1313/post/chennai/</link>
       <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://adityamanglik.github.io/post/chennai/</guid>
+      <guid>http://localhost:1313/post/chennai/</guid>
       <description>&lt;p&gt;I stayed in Chennai from May 22, 2016 till July 17, 2016 as part of Practice School-1 program by BITS Pilani. During this time I interned as an embedded systems trainee at CSIR- CEERI, Madras. This experience taught me a lot of things, from scrambling with basic(read: barely enough) Tamil in crowded (MTC) buses to hands on training with STM32 family of embedded MCUs.&lt;/p&gt;
 &lt;p&gt;North and South India are like two poles apart when it comes to various aspects of life, yet the same. I will miss the filter coffee when I go back to my humble abode in Pilani.&lt;/p&gt;
 &lt;p&gt;Overall, it was a delightful experience to get to know more about my country and its colorful inhabitants.&lt;/p&gt;
@@ -54,9 +72,9 @@ Look forward to hearing from you!&lt;/p&gt;
     
     <item>
       <title>Flashing the BeagleBone Black</title>
-      <link>https://adityamanglik.github.io/post/beaglebone/</link>
+      <link>http://localhost:1313/post/beaglebone/</link>
       <pubDate>Fri, 13 May 2016 00:00:00 +0000</pubDate>
-      <guid>https://adityamanglik.github.io/post/beaglebone/</guid>
+      <guid>http://localhost:1313/post/beaglebone/</guid>
       <description>&lt;p&gt;There are many ways to flash a &lt;a href=&#34;https://beagleboard.org/black&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BeagleBone Black&lt;/a&gt;:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Boot off of SD Card&lt;/li&gt;

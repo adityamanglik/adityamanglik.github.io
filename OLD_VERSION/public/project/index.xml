@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | adityamanglik.github.io</title>
+    <link>https://adityamanglik.github.io/project/</link>
+      <atom:link href="https://adityamanglik.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://adityamanglik.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Projects</title>
+      <link>https://adityamanglik.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Travel log</title>
+      <link>https://adityamanglik.github.io/project/travel_log/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/travel_log/</guid>
+      <description>&lt;!-- ## Google map --&gt;
+&lt;p&gt;A simple travel log to make the memories permanent. I enjoy travelling, and have visited the following places:&lt;/p&gt;
+&lt;iframe src=&#34;https://www.google.com/maps/d/embed?mid=1lVq3NQHgcI9frgwqu5SU76v6h1LU2Y8&amp;usp=sharing&#34; width=&#34;800&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+    <item>
+      <title>Course log</title>
+      <link>https://adityamanglik.github.io/project/course_log/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/course_log/</guid>
+      <description>&lt;h2 id=&#34;courses-completed-certificates-available-on-linkedinhttpswwwlinkedincominadityamanglik&#34;&gt;Courses Completed (&lt;a href=&#34;https://www.linkedin.com/in/adityamanglik/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Certificates available on LinkedIn&lt;/a&gt;)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/learning-how-to-learn&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning How to Learn (Coursera)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/adityamanglik/Online_Courses/Fundamentals%20of%20Parallelism%20in%20Intel%20Architectures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Fundamentals of Parallelism in Intel Architectures (Coursera)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/algorithmic-toolbox&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Algorithms (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/data-structures&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Data Structures (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/algorithms-on-graphs&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph Algorithms (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- * [String Algorithms (Coursera)](https://www.coursera.org/learn/algorithms-on-strings) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/)
+
+* [Advanced Algorithms and Analysis (Coursera)](https://www.coursera.org/learn/advanced-algorithms-and-complexity) - [Code Repository](https://github.com/adityamanglik/Algorithm-Implementations/) --&gt;
+&lt;h2 id=&#34;machine-learning&#34;&gt;Machine Learning&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning by Andrew Ng (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/ml-coursera-python-assignments&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/specializations/deep-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning Specialization by Andrew Ng (Coursera)&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Neural Networks and Deep Learning - &lt;a href=&#34;https://github.com/adityamanglik/Deep-Learning-Courses/tree/master/Deep%20Learning%20Specialization%20-%20Andrew%20Ng/Course%201&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Improving Deep Neural Networks: Hyperparameter tuning, regularization and optimization - &lt;a href=&#34;https://github.com/adityamanglik/Deep-Learning-Courses/tree/master/Deep%20Learning%20Specialization%20-%20Andrew%20Ng/Course%202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Structuring Machine Learning projects - &lt;a href=&#34;https://github.com/adityamanglik/Deep-Learning-Courses&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/instructor/~831097&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning by Geoffrey Hinton (Coursera)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/ml-coursera-python-assignments&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/course/machinelearning/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning A-Z (Udemy)&lt;/a&gt; - &lt;a href=&#34;https://github.com/adityamanglik/Algorithm-Implementations/tree/master/Machine%20Learning/Sklearn%20Implementations&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Repository&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.udemy.com/deep-learning-prerequisites-the-numpy-stack-in-python/learn/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Python and Numpy stack (Udemy)&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- 
+## Kaggle Competitions
+
+* [Titanic challenge](/post/first-kaggle-competition/) - [Kaggle Notebook](https://www.kaggle.com/carpediemed/kernel62281fa024)
+
+* Cats vs Dogs - [Kaggle Notebook](https://www.kaggle.com/carpediemed/dogs-vs-cats-custom-network-09-04-2020) --&gt;</description>
+    </item>
+    
+    <item>
+      <title>Nand2tetris</title>
+      <link>https://adityamanglik.github.io/project/nand2tetris/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/nand2tetris/</guid>
+      <description>&lt;p&gt;Interesting and useful course.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.coursera.org/learn/build-a-computer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coursera&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>STM32F7 microcontroller interfacing with STM32F4</title>
+      <link>https://adityamanglik.github.io/project/stm32/</link>
+      <pubDate>Thu, 20 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/stm32/</guid>
+      <description>&lt;p&gt;Documentation: &lt;a href=&#34;https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://embeddedintelligence.wordpress.com/projects/stm32f746ngh6-discovery-board-explorations/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power attribution and Estimation Engine in Linux</title>
+      <link>https://adityamanglik.github.io/project/linuxenergy/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/linuxenergy/</guid>
+      <description>&lt;p&gt;Worked on development of the power panel in GNOME-Usage with Felipe Borges and Christian Kellner.&lt;/p&gt;
+&lt;h2 id=&#34;project-log&#34;&gt;Project Log&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Problem and Motivation: Why: not all software is created equal. Some are more harmful than others, just like website have different footprints. We want fairness in energy consumption via quantification for each process&lt;/li&gt;
+&lt;li&gt;The What, Who, Why, When, Where, &amp;amp; How of the Power Measurement problem&lt;/li&gt;
+&lt;li&gt;Windows Energy Estimation Engine breakdown: &lt;a href=&#34;https://embeddedintelligence.wordpress.com/windows-energy-estimation-engine&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Windows System Power Report : &lt;a href=&#34;https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-168-Powercfg-Sleep-Study&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video 1&lt;/a&gt;, &lt;a href=&#34;https://channel9.msdn.com/Shows/Defrag-Tools/Defrag-Tools-181-System-Power-Report&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Video 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;MAC OS X Activity Monitor Power Impact breakdown: &lt;a href=&#34;https://embeddedintelligence.wordpress.com/mac-os-x-energy-impact&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Android Power Measurement system : Unknown!&lt;/li&gt;
+&lt;li&gt;Reverse Engineering PowerTOP : Link&lt;/li&gt;
+&lt;li&gt;Understanding Intel RAPL: Link&lt;/li&gt;
+&lt;li&gt;Developing the power models, collecting and crunching global user data&lt;/li&gt;
+&lt;li&gt;UPower - System Architecture and Integrations&lt;/li&gt;
+&lt;li&gt;Linux Process accounting infrastructure and integrating power event recording&lt;/li&gt;
+&lt;li&gt;turbostat - Accessing CPU and GPU Package details and power: &lt;a href=&#34;https://manpages.debian.org/testing/linux-cpupower/turbostat.8.en.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Comparison and embedding into sysprof &amp;ndash;&amp;gt; Right now gives only CPU and GPU usage, whereas power is a multi-faceted problem&lt;/li&gt;
+&lt;li&gt;Update SuperUser question for all power models: &lt;a href=&#34;https://superuser.com/questions/1304014/power-consumption-in-windows-10-and-linux&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Next step = GPU in GNOME-Usage. &lt;a href=&#34;https://drive.google.com/file/d/1kQZQLHIANHIsRSQXw_C3Uffz_SeDuQzg/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GSoC Proposal&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://software.intel.com/content/www/us/en/develop/documentation/energy-analysis-user-guide/top.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intel CPU Energy analysis tool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;known-tools-from-lfe-summit&#34;&gt;Known tools (from LFE Summit)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://powerapi.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PowerAPI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mlco2.github.io/codecarbon/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Code Carbon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.cloudcarbonfootprint.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cloud Carbon Footprint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.green-algorithms.org/app-user-guide/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Algorithms calculator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://greenframe.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GreenFrame&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;kernel-developer&#34;&gt;Kernel Developer&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;wookey.org&#34;&gt;wookey&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;relevant-research-papers&#34;&gt;Relevant Research Papers&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Performance is NOT same as energy &amp;ndash; &lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S0306261920304694&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.sciencedirect.com/science/article/pii/S0306261920304694&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Good paper on power impact of managed languages: &lt;a href=&#34;https://users.cecs.anu.edu.au/~steveb/pubs/papers/powerperf-asplos-2011.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://users.cecs.anu.edu.au/~steveb/pubs/papers/powerperf-asplos-2011.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.microsoft.com/en-us/research/publication/empowering-developers-to-estimate-app-energy-consumption/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.usenix.org/conference/atc12/technical-sessions/presentation/yoon&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AppScope: Application Energy Metering Framework for Android Smartphone Using Kernel Activity Monitoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://web.eece.maine.edu/~vweaver/projects/rapl/2016_memsys_rapl.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DRAM Power Measurement with RAPL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/1840845.1840883&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;RAPL for memory&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/5751489&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://ieeexplore.ieee.org/document/5751489&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.cs.columbia.edu/~lierranli/coms6998-11Fall2012/papers/eprof_eurosys2012.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;http://www.cs.columbia.edu/~lierranli/coms6998-11Fall2012/papers/eprof_eurosys2012.pdf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.1145/3194078.3194079&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/pdf/10.1145/3194078.3194079&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3229631.3229633&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/10.1145/3229631.3229633&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/pdf/10.5555/2872599.2872613&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/pdf/10.5555/2872599.2872613&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3575693.3575709&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/10.1145/3575693.3575709&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dl.acm.org/doi/10.1145/3575693.3575754&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://dl.acm.org/doi/10.1145/3575693.3575754&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;data-collection-sources&#34;&gt;Data collection sources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Tracy: Can collect data from HPC systems for workloads to fine-tune the model&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;resources&#34;&gt;Resources&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Linux packages to poll information: &lt;a href=&#34;https://manpages.debian.org/testing/linux-cpupower/index.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://manpages.debian.org/testing/linux-cpupower/index.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://apenwarr.ca/log/20061024&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://apenwarr.ca/log/20061024&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux ACPI Intel Documentation: &lt;a href=&#34;https://01.org/linux-acpi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux process management: &lt;a href=&#34;https://tldp.org/LDP/tlk/kernel/processes.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Linux Process Model (from 2000) : &lt;a href=&#34;https://www.linuxjournal.com/article/3814&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Smart Battery Systems: &lt;a href=&#34;https://batteryuniversity.com/learn/article/inner_workings_of_a_smart_battery&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Hacking Battery Firmware for fun and profit: &lt;a href=&#34;https://media.blackhat.com/bh-us-11/Miller/BH_US_11_Miller_Battery_Firmware_Public_WP.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.semanticscholar.org/paper/Adaptive-Power-Management-Based-on-Reinforcement-Liu-Hsu/40b943ed1f4514979b2b997c3a675cb77ec635c7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.semanticscholar.org/paper/Adaptive-Power-Management-Based-on-Reinforcement-Liu-Hsu/40b943ed1f4514979b2b997c3a675cb77ec635c7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Is it possible to compute carbon footprint of the current application: &lt;a href=&#34;https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://css-tricks.com/reduce-your-websites-environmental-impact-with-a-carbon-budget/&lt;/a&gt; ?&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.phoronix.com/scan.php?page=news_item&amp;amp;px=GNOME-Usage-Power-2020&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.phoronix.com/scan.php?page=news_item&amp;px=GNOME-Usage-Power-2020&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://utcc.utoronto.ca/~cks/space/blog/linux/LoadAverageWhereFrom&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://eclecticlight.co/2022/05/02/dont-trust-activity-monitor-on-m1-macs/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://medium.com/codex/what-are-the-greenest-programming-languages-e738774b1957&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sites.google.com/view/energy-efficiency-languages/home&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://sites.google.com/view/energy-efficiency-languages/home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;links-from-lfe&#34;&gt;Links from LFE&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://greensoftware.foundation/projects/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://greensoftware.foundation/projects/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://greensoftware.foundation/articles/software-carbon-intensity-sci-specification-project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://greensoftware.foundation/articles/software-carbon-intensity-sci-specification-project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://codecarbon.io/#howitwork&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://codecarbon.io/#howitwork&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://blog.google/inside-google/infrastructure/data-centers-work-harder-sun-shines-wind-blows/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Toward Carbon-Aware Networking, Noa Zilberman, University of Oxford&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://news.microsoft.com/de-ch/2023/01/10/carbon-aware-computing-whitepaper/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.microsoft.com/en-gb/industry/blog/technetuk/2021/10/12/how-to-measure-and-reduce-the-carbon-footprint-of-your-application/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PCB schematics for prototype waschmaschine</title>
+      <link>https://adityamanglik.github.io/project/mup_project/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/mup_project/</guid>
+      <description>&lt;p&gt;This project was done as part of course requirements for the course “Microprocessors and Interfacing hardware” at BITS.
+The objective given was to design a completely automatic washing machine in Proteus software against given specifications.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intelligent Industrial Disaster Management Robot</title>
+      <link>https://adityamanglik.github.io/project/kartikeyprojectapogee2016/</link>
+      <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/kartikeyprojectapogee2016/</guid>
+      <description>&lt;p&gt;The objective of the project was to develop a mobile robot which can tackle emergency situations in case of industrial accidents, such as gas leakage. The robot should be able to aid in search and rescue operations and have visual and audio systems on board for effective two way communication.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptive Gait Generation for Hexapod</title>
+      <link>https://adityamanglik.github.io/project/adaptivegaitgeneration/</link>
+      <pubDate>Sun, 20 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://adityamanglik.github.io/project/adaptivegaitgeneration/</guid>
+      <description>&lt;p&gt;This project was inspired by natural phenomenon of adaptation witnessed in nature. Genetic Algorithm is used to generate gaits for a robot without manually inputting the gait in program source code. This means, the hexapod learns to walk on its own and is never taught walking by its human masters!&lt;/p&gt;
+&lt;p&gt;We also used GA to introduce the ability to adapt automatically in case of damage, just like animals do in nature! For example, whenever a dog gets hurt, it is quickly able to adapt to any damage and escape to safety. Our project tries to emulate the same, on a much smaller and slower scale. It is very hard to challenge nature in beauty and complexity!&lt;/p&gt;
+&lt;p&gt;This project won out of 50 other ideas presented in technical fest APOGEE 2016.&lt;/p&gt;
+&lt;h2 id=&#34;public-artifacts&#34;&gt;Public Artifacts&lt;/h2&gt;
+&lt;p&gt;Research Paper: &lt;a href=&#34;https://drive.google.com/open?id=0B8qjV3FXLM4bVEtacWQzYUNKM1U&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://drive.google.com/open?id=0B8qjV3FXLM4bVEtacWQzYUNKM1U&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Arduino controller code: &lt;a href=&#34;https://github.com/adityamanglik/Hexapod-Controller_Arduino&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/adityamanglik/Hexapod-Controller_Arduino&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;MATLAB simulation for Genetic Algorithm: &lt;a href=&#34;https://github.com/adityamanglik/Spider-Gait-Simulator--Genetic-Algorithm&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/adityamanglik/Spider-Gait-Simulator--Genetic-Algorithm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

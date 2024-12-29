@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Talks | adityamanglik.github.io</title>
+    <link>https://adityamanglik.github.io/event/</link>
+      <atom:link href="https://adityamanglik.github.io/event/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Aug 2023 13:55:00 +0200</lastBuildDate>
+    <image>
+      <url>https://adityamanglik.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Research Talks</title>
+      <link>https://adityamanglik.github.io/event/</link>
+    </image>
+    
+    <item>
+      <title>GSF Podcast on Green Kernels</title>
+      <link>https://adityamanglik.github.io/talk/gsf-podcast-on-green-kernels/</link>
+      <pubDate>Thu, 10 Aug 2023 13:55:00 +0200</pubDate>
+      <guid>https://adityamanglik.github.io/talk/gsf-podcast-on-green-kernels/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;It was a lot of fun to dive into these challenges with Hongyu Hè and Chris Adams on the &lt;a href=&#34;https://podcasts.bcast.fm/e/vn50x748-the-week-in-green-software-green-kernels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Environment Variables&lt;/a&gt; podcast hosted by the &lt;a href=&#34;https://greensoftware.foundation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Green Software Foundation&lt;/a&gt;!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Podcast: &lt;a href=&#34;https://podcasts.bcast.fm/e/vn50x748-the-week-in-green-software-green-kernels&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://podcasts.bcast.fm/e/vn50x748-the-week-in-green-software-green-kernels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Spotify link: &lt;a href=&#34;https://open.spotify.com/episode/4URrFAj6jvuavfXnIhI1S3&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://open.spotify.com/episode/4URrFAj6jvuavfXnIhI1S3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Apple podcasts link: &lt;a href=&#34;https://podcasts.apple.com/us/podcast/the-week-in-green-software-green-kernels/id1618265745?i=1000624014260&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://podcasts.apple.com/us/podcast/the-week-in-green-software-green-kernels/id1618265745?i=1000624014260&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Measuring Carbon Footprint of Personal Computing</title>
+      <link>https://adityamanglik.github.io/talk/measuring-carbon-footprint-of-personal-computing/</link>
+      <pubDate>Fri, 02 Jun 2023 13:55:00 +0200</pubDate>
+      <guid>https://adityamanglik.github.io/talk/measuring-carbon-footprint-of-personal-computing/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+&lt;p&gt;The talk focuses on power measurement and attribution for software (processes) and hardware devices. The objective is to detail the developments in power tracking infrastructure in the Linux kernel for measuring the energy consumption of hardware devices and software applications. These statistics are extremely useful for both end-users and developers. The focus would be on a detailed discussion of multivariate regression models to determine application and hardware device energy consumption. There are also privacy concerns attached to this data, which need feedback from more developers. LF Energy Summit would be a great platform to present the work to the developer community and get feedback to improve the system design. Talk Outline 1) Understanding why power consumption is a first-class design constraint in modern systems, including desktop, server, and mobile-class systems 2) Demonstrating the value of power consumption across different stakeholders, including end-users, application programmers, kernel developers, and system designers 3) Survey results from corresponding systems in competing environments and OS 4) System design proposal and evaluation&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Energy measurement in GNOME-Usage</title>
+      <link>https://adityamanglik.github.io/talk/energy-measurement-in-gnome-usage/</link>
+      <pubDate>Wed, 20 Jul 2022 00:10:54 +0530</pubDate>
+      <guid>https://adityamanglik.github.io/talk/energy-measurement-in-gnome-usage/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research seminar on the paper on Optimizing Google Workloads for Consumer Devices</title>
+      <link>https://adityamanglik.github.io/talk/research-seminar-on-the-paper-on-optimizing-google-workloads-for-consumer-devices/</link>
+      <pubDate>Thu, 23 Dec 2021 00:10:54 +0530</pubDate>
+      <guid>https://adityamanglik.github.io/talk/research-seminar-on-the-paper-on-optimizing-google-workloads-for-consumer-devices/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving energy efficiency in modern systems</title>
+      <link>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</link>
+      <pubDate>Wed, 22 Jul 2020 00:10:54 +0530</pubDate>
+      <guid>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving energy efficiency in modern systems</title>
+      <link>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</link>
+      <pubDate>Thu, 10 Oct 2019 00:10:54 +0530</pubDate>
+      <guid>https://adityamanglik.github.io/talk/improving-energy-efficiency-in-modern-systems/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Power panel in GNOME-Usage</title>
+      <link>https://adityamanglik.github.io/talk/power-panel-in-gnome-usage/</link>
+      <pubDate>Thu, 05 Jul 2018 00:10:54 +0530</pubDate>
+      <guid>https://adityamanglik.github.io/talk/power-panel-in-gnome-usage/</guid>
+      <description>&lt;!-- 
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Slides can be added in a few ways:
+
+- **Create** slides using Wowchemy&#39;s [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
+- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
+
+Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

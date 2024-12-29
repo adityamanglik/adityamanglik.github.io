@@ -1,7 +1,7 @@
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
+  #     desired widget in your `content/home/` folder.
+  #   The weight parameter defines the order that the links will appear in.
 
 main:
   - name: Home
@@ -26,6 +26,3 @@ main:
   - name: Resume
     url: 'https://drive.google.com/file/d/18-dWtEMDtdYmH8KR_GSB5OChnkVjUPRX/view?usp=sharing'
     weight: 60
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

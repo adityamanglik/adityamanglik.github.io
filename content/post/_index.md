@@ -1,17 +1,6 @@
 ---
 title: Posts
-cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ''
-  image: ''
+view: article-grid
 ---
 I enjoy learning about new hardware and software developments. I also like to help others understand these developments and their potential applications in the simplest, yet complete forms. I have a dream of unifying and archiving all knowledge sources in this world and making knowledge available to everybody.
 
