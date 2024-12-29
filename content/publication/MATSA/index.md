@@ -1,5 +1,5 @@
 ---
-title: 'Resistive Crossbar-Aware Neural Network Design and Optimization'
+title: 'MATSA: An MRAM-Based Energy-Efficient Accelerator for Time Series Analysis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: '2022-11-26T00:00:00Z'
+date: '2024-06-26T00:00:00Z'
 doi: '10.1109/ACCESS.2020.3045071'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-11-26T00:00:00Z'
+publishDate: '2024-11-26T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,8 +28,8 @@ publishDate: '2022-11-26T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv
-publication_short: Arxiv
+publication: IEEE Access
+publication_short: IEEE Access
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -46,7 +46,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2211.04369'
+url_pdf: 'https://ieeexplore.ieee.org/iel7/6287639/6514899/10458946.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''

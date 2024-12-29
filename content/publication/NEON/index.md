@@ -1,5 +1,5 @@
 ---
-title: 'Accelerating Time Series Analysis via Processing using Non-Volatile Memories'
+title: 'NEON: Enabling Efficient Support for Nonlinear Operations in Resistive RAM-based Neural Network Accelerators'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -15,7 +15,7 @@ authors:
 #   - 'Equal contribution'
 
 date: '2022-11-08T00:00:00Z'
-doi: '10.48550/arXiv.2211.04369'
+doi: '10.48550/arXiv.2211.05730'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-11-08T00:00:00Z'
