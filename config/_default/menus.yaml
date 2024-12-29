@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#about'
+    url: 'https://adityamanglik.github.io'
     weight: 10
   - name: Publications
     url: 'publication/'
