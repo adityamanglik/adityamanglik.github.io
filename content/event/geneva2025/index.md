@@ -1,5 +1,5 @@
 ---
-title: Green kernels: Carbon measurement and attribution for processes in the Linux kernel
+title: "Green kernels: Carbon measurement and attribution for processes in the Linux kernel"
 event: DevOpsDays Geneva-2025
 event_url: https://devopsdays.org/events/2025-geneva/speakers/aditya-manglik/
 location: Geneva, Suisse
