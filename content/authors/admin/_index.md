@@ -21,12 +21,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Graduate Student
+role: Senior Engineer and Researcher
 
 # Organizations/Affiliations to display in Biography blocks
-organizations:
-  - name: ETH Zürich, Switzerland
-    url: https://ethz.ch/en.html
+# organizations:
+  # - name: ETH Zürich, Switzerland
+    # url: https://ethz.ch/en.html
 
 # Social network links
 # To use different icons, reference or download suitable SVG icons to your `assets/media/icons/`.
@@ -77,44 +77,44 @@ interests:
 
 # Work
 # If you want to list your work experiences similarly to the original target, adapt as needed:
-work:
-  - position: Senior Member of Technical Staff
-    company_name: Oracle Corporation
-    company_url: ''
-    company_logo: ''
-    date_start: 2018-06-01
-    date_end: 2021-07-31
-    summary: |
-      - Worked on enterprise-grade systems for database and middleware products
-      - Gained deep industry experience before transitioning to academia
+# work:
+#   - position: Senior Member of Technical Staff
+#     company_name: Oracle Corporation
+#     company_url: ''
+#     company_logo: ''
+#     date_start: 2018-06-01
+#     date_end: 2021-07-31
+#     summary: |
+#       - Worked on enterprise-grade systems for database and middleware products
+#       - Gained deep industry experience before transitioning to academia
 
 # Skills, languages, or awards
 # - These sections can be omitted, adapted, or expanded based on your needs.
-skills:
-  - name: Research & Development
-    items:
-      - name: System Security
-        description: ''
-        percent: 90
-      - name: Energy-efficient Architectures
-        description: ''
-        percent: 90
-  - name: Programming
-    items:
-      - name: C/C++
-        description: ''
-        percent: 80
-      - name: Python
-        description: ''
-        percent: 80
+# skills:
+#   - name: Research & Development
+#     items:
+#       - name: System Security
+#         description: ''
+#         percent: 90
+#       - name: Energy-efficient Architectures
+#         description: ''
+#         percent: 90
+#   - name: Programming
+#     items:
+#       - name: C/C++
+#         description: ''
+#         percent: 80
+#       - name: Python
+#         description: ''
+#         percent: 80
 
-languages:
-  - name: English
-    percent: 100
-  - name: Hindi
-    percent: 100
-  - name: German
-    percent: 50
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Hindi
+#     percent: 100
+#   - name: German
+#     percent: 50
 ---
 
 ## About Me
