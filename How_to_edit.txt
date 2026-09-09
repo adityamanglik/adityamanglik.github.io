@@ -1,2 +1,3 @@
 Install hugo locally from deb package and use that to compile and serve the website
+
 wget https://github.com/gohugoio/hugo/releases/
