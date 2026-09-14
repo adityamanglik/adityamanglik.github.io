@@ -16,8 +16,6 @@ authors:
 #   - 'Equal contribution'
 
 date: '2024-06-26T00:00:00Z'
-doi: '10.1109/ACCESS.2020.3045071'
-
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-11-26T00:00:00Z'
 

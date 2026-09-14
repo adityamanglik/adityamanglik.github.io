@@ -1,5 +1,5 @@
 ---
-title: 'GenPIP: In-Memory Acceleration of Genome Analysis via Tight Integration of Basecalling and Read Mapping'
+title: 'GenPIP: In-Memory Acceleration of Genome Analysis by Tight Integration of Basecalling and Read Mapping'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

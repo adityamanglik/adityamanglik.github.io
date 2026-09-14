@@ -1,5 +1,5 @@
 ---
-title: 'A case for transparent reliability in DRAM systems'
+title: 'A Case for Transparent Reliability in DRAM Systems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here

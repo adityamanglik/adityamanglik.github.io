@@ -1,10 +1,9 @@
 ---
-title: Improving energy efficiency in modern systems
-event: GNOME.Asia 2019
-event_url: https://2019.gnome.asia/#/
+title: Power management in Linux
+event: GNOME Users and Developers in Europe Conference-2020
 location: Virtual
-summary: Lightening talk
-abstract: Energy efficiency and challenges on the path to designing efficient systems
+summary: Power management in Linux
+abstract: Power management in Linux
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
@@ -26,7 +25,7 @@ tags: []
 featured: false
 
 image:
-  caption: "Lightning talk"
+  caption: "Power management in Linux"
   focal_point: ""
   preview_only: false
 
@@ -38,6 +37,7 @@ image:
 # url_code: https://summerofcode.withgoogle.com/archive/2018/projects/5742960490577920/
 # url_pdf: 
 # url_video: https://youtu.be/DTeVkaFqFsA?t=1526
+url_video: https://www.youtube.com/watch?v=2_KEYtjw0Ps
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

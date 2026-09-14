@@ -1,10 +1,10 @@
 ---
-title: Improving energy efficiency in modern systems
+title: Research talk for high school students
 event: GNOME.Asia 2019
-event_url: https://2019.gnome.asia/#/
+event_url: https://2019.gnome.asia/#/#speakers
 location: Gresik, Indonesia
-summary: Lightening talk
-abstract: Energy efficiency and challenges on the path to designing efficient systems
+summary: Research talk for high school students
+abstract: Research talk for high school students
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'

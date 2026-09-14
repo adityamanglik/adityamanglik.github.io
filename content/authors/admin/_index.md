@@ -116,7 +116,7 @@ interests:
 #   - name: German
 #     percent: 50
 education:
-  - area: Master of Science in Electrical Engineering
+  - area: M.Sc. Information Technology and Electrical Engineering
     institution: ETH Zürich
     date_start: 2021-01-01
     date_end: 2024-12-31
@@ -127,38 +127,40 @@ education:
 
 work:
   - position: Senior Engineer
-    company_name: Qualcomm
+    company_name: Qualcomm Technologies
     date_start: 2025-07-01
     summary: |
-      - Optimized system-on-chip memory controller design for DRAM performance and energy efficiency.
-      - Worked on DRAM technologies and research in processing-in-memory.
+      - Design and implementation of processing-in-memory technologies in Qualcomm products.
+      - Optimize system-on-chip memory efficiency with C++ and SystemC to maximize DRAM performance.
 
-  - position: Founder
+  - position: Entrepreneurship and Venture Exploration
     company_name: ETH Student Project House
     date_start: 2025-01-01
     date_end: 2025-06-30
     summary: |
-      - Explored commercializing private and sustainable large-language-model services from ETH Zürich research.
-      - Built GPU-kernel benchmarking infrastructure for latency, throughput, and energy measurements.
-      - Conducted customer discovery and validated product requirements around cost, privacy, and latency.
+      - Attempted to commercialize ETH research through a startup focused on energy-aware GPU inference.
+      - Built benchmarking infrastructure for kernel-level profiling and end-to-end latency, throughput, and energy SLOs.
+      - Conducted customer discovery interviews and validated buying criteria around cost, privacy, and latency.
 
-  - position: Software Engineer
-    company_name: Augmedi
+  - position: Intern
+    company_name: Augmedi AG
     date_start: 2024-06-01
     date_end: 2024-12-31
     summary: |
       - Built and shipped product features with TypeScript, React, and SQL.
-      - Designed DevOps features and monitoring with Grafana and Prometheus, and supported production incidents.
+      - Designed and implemented DevOps features with Tanka, Terraform, and Kubernetes.
+      - Delivered Grafana and Prometheus monitoring dashboards and supported production incidents.
 
-  - position: Research Staff
+  - position: Master's Thesis
     company_name: Columbia University
     date_start: 2023-09-01
     date_end: 2024-04-30
     summary: |
       - Researched garbage-collection-aware request scheduling for serverless workloads.
       - Reduced latency deviation by 2.5x through benchmarking and performance engineering.
+      - Advised by Prof. Kostis Kaffes and Prof. Lana Josipović.
 
-  - position: Graduate Research Assistant
+  - position: Research Assistant
     company_name: ETH Zürich
     date_start: 2021-09-01
     date_end: 2023-08-31
@@ -169,32 +171,34 @@ work:
   - position: Cloud Engineer
     company_name: Oracle
     date_start: 2018-08-01
-    date_end: 2021-09-30
+    date_end: 2021-08-31
     summary: |
-      - Developed application features for cloud-native CRM systems.
-      - Reduced J2EE component response time from 450 ms to 300 ms.
+      - Developed application features with Java, JUnit, and J2EE platforms.
+      - Optimized J2EE component latency from 450 ms to 300 ms.
 
-  - position: Google Summer of Code Contributor
-    company_name: GNOME Foundation
-    date_start: 2018-05-01
-    date_end: 2018-09-30
+  - position: Open-source Software Contributor
+    company_name: Google Summer of Code (GNOME Desktop Environment)
+    date_start: 2018-06-01
+    date_end: 2018-08-31
     summary: |
       - Developed a Linux kernel module to measure process energy consumption.
       - Used multivariate regression to estimate device power consumption from battery drain.
 
-  - position: Research Staff
-    company_name: Technische Universität Wien
+  - position: Bachelor's Thesis
+    company_name: TU Wien
     date_start: 2018-01-01
-    date_end: 2018-06-30
+    date_end: 2018-07-31
     summary: |
-      Research on deep learning, convolutional neural networks, transformers, processing-in-memory, and energy-efficient computing.
+      - Advised by Prof. Muhammad Shafique and Prof. Surekha Bhanot.
+      - Designed a resistive-RAM accelerator for deep-learning workloads.
 
-  - position: Embedded Systems Engineer
-    company_name: CSIR-CEERI
-    date_start: 2016-05-01
-    date_end: 2016-07-31
+  - position: Embedded Systems Intern
+    company_name: Central Electronics Engineering Research Institute
+    date_start: 2016-06-01
+    date_end: 2016-08-31
     summary: |
-      Developed embedded software for ARM Cortex-M7 based STM32F746 and STM32F4 camera systems.
+      - Programmed an ARM Cortex-M7-based STM32F746 microcontroller with an STM32F4 camera.
+      - Worked with Arduino, BeagleBone Black, and Raspberry Pi platforms.
 ---
 
 ## About Me

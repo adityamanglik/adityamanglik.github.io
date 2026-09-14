@@ -1,10 +1,10 @@
 ---
-title: Power panel in GNOME-Usage
-event: GUADEC
+title: Optimizing UPower and GNOME Battery Bench
+event: GUADEC-2018
 event_url: 2018.guadec.org
 location: Almeria, Spain
-summary: Google Summer of Code student talk
-abstract: Power panel in GNOME-Usage
+summary: Optimizing UPower and GNOME Battery Bench
+abstract: Optimizing UPower and GNOME Battery Bench
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
@@ -37,7 +37,7 @@ image:
 #     url: https://twitter.com/georgecushen
 url_code: https://summerofcode.withgoogle.com/archive/2018/projects/5742960490577920/
 # url_pdf: 
-url_video: https://youtu.be/DTeVkaFqFsA?t=1526
+url_video: https://youtu.be/DTeVkaFqFsA?t=1541
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

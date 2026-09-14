@@ -1,10 +1,10 @@
 ---
-title: Energy measurement in GNOME-Usage
+title: Energy attribution systems in Linux kernel
 event: GUADEC 2022
 event_url: https://events.gnome.org/event/77/
 location: Guadalajara, Mexico
-summary: Design talk
-abstract: Power measurement for applications and hardware devices and representation in GNOME-Usage 
+summary: Energy attribution systems in Linux kernel
+abstract: Energy attribution systems in Linux kernel
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
@@ -38,6 +38,7 @@ image:
 # url_code: https://summerofcode.withgoogle.com/archive/2018/projects/5742960490577920/
 # url_pdf: 
 # url_video: https://youtu.be/DTeVkaFqFsA?t=1526
+url_video: https://www.youtube.com/live/wuFTiAcdBXk?feature=share&t=407
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.

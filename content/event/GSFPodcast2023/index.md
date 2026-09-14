@@ -1,9 +1,9 @@
 ---
-title: GSF Podcast on Green Kernels
-event: Green Software Foundation's podcast Environment Variables
+title: Greening Kernels
+event: Invited speaker, Environment Variables Podcast (Green Software Foundation)
 event_url: https://podcasts.bcast.fm/e/vn50x748-the-week-in-green-software-green-kernels
-location: Virtual
-summary: Linux process energy measurement
+location: Podcast
+summary: Greening Kernels
 abstract: Podcast with Hongyu Hè and Chris Adams
 
 # summary: An example talk using Wowchemy's Markdown slides feature.

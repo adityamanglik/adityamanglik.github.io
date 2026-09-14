@@ -1,10 +1,9 @@
 ---
-title: Estimating Energy Consumption of Embedded Platforms to Reduce the Carbon Footprint of Processes
-event: Linux Foundation Open Source Summit-2023
-event_url: https://events.linuxfoundation.org/open-source-summit-japan/program/schedule/
-location: Japan, Tokyo
-summary: Linux process energy measurement
-abstract: This talk aims to detail the recent developments in power tracking infrastructure in the Linux kernel for measuring the energy consumption of hardware devices and software applications.
+title: Energy-Efficient Embedded Computing
+event: Embedded IoT Summit, Japan 2023
+location: Tokyo, Japan
+summary: Energy-Efficient Embedded Computing
+abstract: Energy-Efficient Embedded Computing
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
@@ -38,6 +37,7 @@ image:
 # url_code: https://summerofcode.withgoogle.com/archive/2018/projects/5742960490577920/
 # url_pdf: 
 # url_video: https://youtu.be/DTeVkaFqFsA?t=1526
+url_video: https://www.youtube.com/watch?v=oxu-1Sx9_V0
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -66,4 +66,11 @@ Slides can be added in a few ways:
 
 Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page. -->
 
- The talk focuses on power measurement and attribution for software (processes) and hardware devices. The objective is to detail the developments in power tracking infrastructure in the Linux kernel for measuring the energy consumption of hardware devices and software applications. These statistics are extremely useful for both end-users and developers. The focus would be on a detailed discussion of multivariate regression models to determine application and hardware device energy consumption. There are also privacy concerns attached to this data, which need feedback from more developers. LF Energy Summit would be a great platform to present the work to the developer community and get feedback to improve the system design. Talk Outline 1) Understanding why power consumption is a first-class design constraint in modern systems, including desktop, server, and mobile-class systems 2) Demonstrating the value of power consumption across different stakeholders, including end-users, application programmers, kernel developers, and system designers 3) Survey results from corresponding systems in competing environments and OS 4) System design proposal and evaluation 
+The talk focuses on power measurement and attribution for software (processes) and hardware devices. The objective is to detail the developments in power tracking infrastructure in the Linux kernel for measuring the energy consumption of hardware devices and software applications. These statistics are extremely useful for both end-users and developers. The focus would be on a detailed discussion of multivariate regression models to determine application and hardware device energy consumption. There are also privacy concerns attached to this data, which need feedback from more developers. LF Energy Summit would be a great platform to present the work to the developer community and get feedback to improve the system design.
+
+Talk Outline:
+
+1. Understanding why power consumption is a first-class design constraint in modern systems, including desktop, server, and mobile-class systems.
+2. Demonstrating the value of power consumption across different stakeholders, including end-users, application programmers, kernel developers, and system designers.
+3. Survey results from corresponding systems in competing environments and operating systems.
+4. System design proposal and evaluation.
