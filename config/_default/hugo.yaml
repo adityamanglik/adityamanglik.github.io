@@ -39,7 +39,12 @@ outputs:
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
-  quality: 80
+  jpeg:
+    quality: 80
+  webp:
+    quality: 80
+  avif:
+    quality: 80
   anchor: smart
 timeout: 600000
 taxonomies:
@@ -48,6 +53,11 @@ taxonomies:
   publication_type: publication_types
 markup:
   _merge: deep
+  goldmark:
+    renderHooks:
+      link:
+        _merge: none
+        useEmbedded: fallback
   highlight:
     lineNos: false
 security:
