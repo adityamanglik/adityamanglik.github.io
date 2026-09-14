@@ -19,10 +19,13 @@ main:
   - name: Posts
     url: 'post/'
     weight: 50
+  - name: Recognition
+    url: 'honors/'
+    weight: 60
   # - name: Contact
   #   url: '#contact'
   #   weight: 60
 # TODO: Update CV link with actual resume
   - name: Resume
     url: 'https://drive.google.com/file/d/18-dWtEMDtdYmH8KR_GSB5OChnkVjUPRX/view?usp=sharing'
-    weight: 60
+    weight: 70

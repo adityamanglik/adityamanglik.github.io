@@ -199,6 +199,126 @@ work:
     summary: |
       - Programmed an ARM Cortex-M7-based STM32F746 microcontroller with an STM32F4 camera.
       - Worked with Arduino, BeagleBone Black, and Raspberry Pi platforms.
+
+awards:
+  - title: Attendee, Brown Systems Seminar
+    awarder: Brown University
+    date: 2026-01-01
+    date_start: 2026-01-01
+    summary: Providence, USA
+    url: https://brown-systems-week.github.io/
+  - title: Head Judge for Region Finals
+    awarder: First LEGO League Ireland
+    date: 2026-01-01
+    date_start: 2026-01-01
+    summary: Cork, Ireland
+    url: https://fll.ie/
+  - title: Fellow, Green Software Foundation
+    awarder: Green Software Champion
+    date: 2025-01-01
+    date_start: 2025-01-01
+    summary: Remote
+    url: https://champions.greensoftware.foundation/champions/aditya-manglik/
+  - title: Winner, Best Teamwork and Presentation Award
+    awarder: USS (less than 20% selection ratio)
+    date: 2025-01-01
+    date_start: 2025-01-01
+    summary: Xiamen, China
+  - title: SkyLabs Grant
+    awarder: Max-Jarecki Stiftung (less than 1% selection ratio)
+    date: 2024-01-01
+    date_start: 2024-01-01
+    summary: Heidelberg
+  - title: Fellowship
+    awarder: EAGx Summit
+    date: 2024-01-01
+    date_start: 2024-01-01
+    summary: Utrecht
+  - title: Attendee
+    awarder: Heidelberg Laureate Forum (17.6% selection ratio)
+    date: 2024-01-01
+    date_start: 2024-01-01
+    summary: Germany
+  - title: Travel Grant
+    awarder: Linux Foundation Open Source Summit
+    date: 2024-01-01
+    date_start: 2024-01-01
+    summary: Seattle, USA
+  - title: Travel Grant
+    awarder: Embedded IoT Summit, Japan
+    date: 2023-01-01
+    date_start: 2023-01-01
+    summary: Tokyo, Japan
+  - title: Travel Grant
+    awarder: ACM Symposium on Cloud Computing
+    date: 2023-01-01
+    date_start: 2023-01-01
+    summary: Santa Cruz, USA
+  - title: Scholarship
+    awarder: ACM Summer School on Computer Architecture for AI (7% selection ratio)
+    date: 2022-01-01
+    date_start: 2022-01-01
+    summary: Barcelona, Spain
+  - title: Fellowship
+    awarder: OSINT workshop (2500 CHF)
+    date: 2022-01-01
+    date_start: 2022-01-01
+    summary: Zurich, Switzerland
+  - title: Fellowship
+    awarder: ACACES (28% selection ratio)
+    date: 2022-01-01
+    date_start: 2022-01-01
+    summary: Fiuggi, Italy
+  - title: Fellowship
+    awarder: IHPCSS (25% selection ratio)
+    date: 2022-01-01
+    date_start: 2022-01-01
+    summary: Athens, Greece
+  - title: Attendee
+    awarder: ACM Summer School on Program Execution
+    date: 2021-01-01
+    date_start: 2021-01-01
+    summary: IIT Goa
+  - title: Attendee
+    awarder: ACM Summer School on Compiler Optimizations
+    date: 2021-01-01
+    date_start: 2021-01-01
+    summary: IIT Hyderabad
+  - title: Attendee, Eastern European Machine Learning Summer School
+    awarder: Summer School
+    date: 2021-01-01
+    date_start: 2021-01-01
+    summary: Remote
+  - title: Attendee
+    awarder: NTNU Nordic Probabilistic AI Summer School
+    date: 2021-01-01
+    date_start: 2021-01-01
+    summary: Remote
+  - title: Travel Grant
+    awarder: GNOME.Asia-2019
+    date: 2019-01-01
+    date_start: 2019-01-01
+    summary: Gresik, Indonesia
+  - title: Research Grant
+    awarder: Bachelor's thesis at TU Vienna
+    date: 2018-01-01
+    date_start: 2018-01-01
+    summary: BITS Pilani
+  - title: Winner
+    awarder: Microsoft Azure Machine Learning Hackathon (first among 19 teams)
+    date: 2017-01-01
+    date_start: 2017-01-01
+    summary: BITS Pilani
+  - title: Research Grant
+    awarder: L.K. Maheshwari Foundation
+    date: 2016-01-01
+    date_start: 2016-01-01
+    summary: BITS Pilani
+  - title: 2nd position/45
+    awarder: Student paper presentation, APOGEE-2016
+    date: 2016-01-01
+    date_start: 2016-01-01
+    summary: BITS Pilani
 ---
 
 ## About Me
