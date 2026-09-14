@@ -11,8 +11,8 @@ first_name: Aditya
 last_name: Manglik
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+  # icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -115,6 +115,86 @@ interests:
 #     percent: 100
 #   - name: German
 #     percent: 50
+education:
+  - area: Master of Science in Electrical Engineering
+    institution: ETH Zürich
+    date_start: 2021-01-01
+    date_end: 2024-12-31
+  - area: Bachelor of Engineering in Electrical and Electronics Engineering, with Honors
+    institution: Birla Institute of Technology and Science, Pilani
+    date_start: 2014-01-01
+    date_end: 2018-12-31
+
+work:
+  - position: Senior Engineer
+    company_name: Qualcomm
+    date_start: 2025-07-01
+    summary: |
+      - Optimized system-on-chip memory controller design for DRAM performance and energy efficiency.
+      - Worked on DRAM technologies and research in processing-in-memory.
+
+  - position: Founder
+    company_name: ETH Student Project House
+    date_start: 2025-01-01
+    date_end: 2025-06-30
+    summary: |
+      - Explored commercializing private and sustainable large-language-model services from ETH Zürich research.
+      - Built GPU-kernel benchmarking infrastructure for latency, throughput, and energy measurements.
+      - Conducted customer discovery and validated product requirements around cost, privacy, and latency.
+
+  - position: Software Engineer
+    company_name: Augmedi
+    date_start: 2024-06-01
+    date_end: 2024-12-31
+    summary: |
+      - Built and shipped product features with TypeScript, React, and SQL.
+      - Designed DevOps features and monitoring with Grafana and Prometheus, and supported production incidents.
+
+  - position: Research Staff
+    company_name: Columbia University
+    date_start: 2023-09-01
+    date_end: 2024-04-30
+    summary: |
+      - Researched garbage-collection-aware request scheduling for serverless workloads.
+      - Reduced latency deviation by 2.5x through benchmarking and performance engineering.
+
+  - position: Graduate Research Assistant
+    company_name: ETH Zürich
+    date_start: 2021-09-01
+    date_end: 2023-08-31
+    summary: |
+      - Conducted research in the SAFARI Research Group under Prof. Onur Mutlu.
+      - Studied hardware acceleration, processing-in-memory, DRAM systems, and computer architecture security.
+
+  - position: Cloud Engineer
+    company_name: Oracle
+    date_start: 2018-08-01
+    date_end: 2021-09-30
+    summary: |
+      - Developed application features for cloud-native CRM systems.
+      - Reduced J2EE component response time from 450 ms to 300 ms.
+
+  - position: Google Summer of Code Contributor
+    company_name: GNOME Foundation
+    date_start: 2018-05-01
+    date_end: 2018-09-30
+    summary: |
+      - Developed a Linux kernel module to measure process energy consumption.
+      - Used multivariate regression to estimate device power consumption from battery drain.
+
+  - position: Research Staff
+    company_name: Technische Universität Wien
+    date_start: 2018-01-01
+    date_end: 2018-06-30
+    summary: |
+      Research on deep learning, convolutional neural networks, transformers, processing-in-memory, and energy-efficient computing.
+
+  - position: Embedded Systems Engineer
+    company_name: CSIR-CEERI
+    date_start: 2016-05-01
+    date_end: 2016-07-31
+    summary: |
+      Developed embedded software for ARM Cortex-M7 based STM32F746 and STM32F4 camera systems.
 ---
 
 ## About Me
