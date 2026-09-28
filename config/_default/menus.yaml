@@ -16,9 +16,9 @@ main:
   - name: Projects # Projects combines multiple blog posts, nothing else
     url: 'project/'
     weight: 40
-  - name: Posts
-    url: 'post/'
-    weight: 50
+  # - name: Posts
+    # url: 'post/'
+    # weight: 50
   # - name: Recognition
   #   url: 'honors/'
   #   weight: 60
