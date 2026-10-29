@@ -1,13 +1,13 @@
 ---
-title: Carbon measurement and energy attribution in Linux
-event: FOSDEM 2024
-event_url: https://fosdem.org/2024/
+title: Carbon measurement and energy attribution for processes and hardware devices in the Linux kernel
+event: FOSDEM 2024 (Energy devroom, H.2214)
+event_url: https://fosdem.org/2024/schedule/event/fosdem-2024-1885-carbon-measurement-and-energy-attribution-for-processes-and-hardware-devices-in-the-linux-kernel/
 location: Brussels, Belgium
-summary: Carbon measurement and energy attribution in Linux
+summary: Carbon measurement and energy attribution for processes and hardware devices in the Linux kernel
 abstract: >
   This talk highlights the recent developments in carbon measurement infrastructure within the Linux kernel’s power subsystem. Our primary goal is to accurately determine the energy consumption of hardware devices and software processes, and to link these measurements to carbon emissions. By revealing which devices and processes are driving a system’s overall energy consumption and emissions, users and developers can make more informed decisions regarding performance, power management, and environmental impact. We will discuss how multivariate regression models are used to estimate consumption at both process and device levels, explore privacy implications, and present the ongoing work needed to refine the models. This session offers a valuable opportunity to gather feedback from the open-source community, ensuring the infrastructure continues to evolve toward more reliable prediction and improved user control.
 
-date: 2024-02-03T13:55:00+02:00
+date: 2024-02-03T16:30:00+01:00
 all_day: true
 publishDate: '2023-12-06T00:00:00Z'
 authors:

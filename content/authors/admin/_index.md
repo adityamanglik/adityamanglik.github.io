@@ -44,6 +44,7 @@ profiles:
 interests:
   - Sustainable Systems
   - Energy Efficiency
+  - DRAM and Memory Systems
   - System Security
 
 # Education
@@ -126,6 +127,13 @@ education:
     date_end: 2018-12-31
 
 work:
+  - position: Co-host, Environment Variables (TWiGS)
+    company_name: Green Software Foundation
+    company_url: https://podcast.greensoftware.foundation/
+    date_start: 2026-02-01
+    summary: |
+      - Co-host of The Week in Green Software, the GSF podcast segment on sustainable computing.
+
   - position: Senior Engineer
     company_name: Qualcomm Technologies
     date_start: 2025-07-01
@@ -201,7 +209,7 @@ work:
       - Worked with Arduino, BeagleBone Black, and Raspberry Pi platforms.
 
 awards:
-  - title: Attendee, Brown Systems Seminar
+  - title: Participant, Brown Systems Seminar
     awarder: Brown University
     date: 2026-01-01
     date_start: 2026-01-01
@@ -213,8 +221,8 @@ awards:
     date_start: 2026-01-01
     summary: Cork, Ireland
     url: https://fll.ie/
-  - title: Fellow, Green Software Foundation
-    awarder: Green Software Champion
+  - title: Green Software Champion
+    awarder: Green Software Foundation
     date: 2025-01-01
     date_start: 2025-01-01
     summary: Remote

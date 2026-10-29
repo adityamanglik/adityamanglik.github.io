@@ -1,9 +1,9 @@
 ---
-title: Carbon measurement and energy attribution in Linux
-event: DevOps Meetup Zurich 2024
+title: The environmental impact of software & carbon measurement in the Linux kernel
+event: DevOps Meetup Zurich 2024 (Digicomp)
 event_url: https://www.meetup.com/devops-meetup-zurich/events/299876014/
 location: Zurich, Switzerland
-summary: Carbon measurement and energy attribution in Linux
+summary: Carbon measurement and attribution for processes and hardware devices in the Linux kernel
 abstract: >
   This talk highlights the recent developments in carbon measurement infrastructure within the Linux kernel’s power subsystem. Our primary goal is to accurately determine the energy consumption of hardware devices and software processes, and to link these measurements to carbon emissions. By revealing which devices and processes are driving a system’s overall energy consumption and emissions, users and developers can make more informed decisions regarding performance, power management, and environmental impact. We will discuss how multivariate regression models are used to estimate consumption at both process and device levels, explore privacy implications, and present the ongoing work needed to refine the models. This session offers a valuable opportunity to gather feedback from the open-source community, ensuring the infrastructure continues to evolve toward more reliable prediction and improved user control.
 

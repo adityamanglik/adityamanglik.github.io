@@ -1,6 +1,6 @@
 ---
-title: Research seminar on the paper on Optimizing Google Workloads for Consumer Devices 
-event: Seminar in Computer Architecture
+title: 'Seminar presentation: Google Workloads for Consumer Devices: Mitigating Data Movement Bottlenecks (ASPLOS 2018)'
+event: Seminar in Computer Architecture, ETH Zürich (Session S8.3)
 event_url: https://safari.ethz.ch/architecture_seminar/fall2021/doku.php?id=sessions
 location: Zurich, Switzerland
 summary: Research paper presentation

@@ -1,9 +1,9 @@
 ---
-title: Sustainability and energy efficiency in Linux
-event: DevOpsDays Geneva-2025
+title: Green kernels - Carbon measurement and attribution for processes in the Linux kernel
+event: DevOpsDays Geneva 2025
 event_url: https://devopsdays.org/events/2025-geneva/speakers/aditya-manglik/
 location: Geneva, Switzerland
-summary: Sustainability and energy efficiency in Linux
+summary: Green kernels - carbon measurement and attribution for processes in the Linux kernel
 abstract: >
   This talk highlights the recent developments in carbon measurement infrastructure within the Linux kernel’s power subsystem. Our primary goal is to accurately determine the energy consumption of hardware devices and software processes, and to link these measurements to carbon emissions. By revealing which devices and processes are driving a system’s overall energy consumption and emissions, users and developers can make more informed decisions regarding performance, power management, and environmental impact. We will discuss how multivariate regression models are used to estimate consumption at both process and device levels, explore privacy implications, and present the ongoing work needed to refine the models. This session offers a valuable opportunity to gather feedback from the open-source community, ensuring the infrastructure continues to evolve toward more reliable prediction and improved user control.
 

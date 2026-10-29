@@ -1,13 +1,14 @@
 ---
-title: Carbon attribution in Linux
-event: Linux Foundation Open Source Summit USA 2024
+title: Power Measurement and Attribution for Processes and Hardware Devices in the Linux Kernel
+event: Linux Foundation Open Source Summit North America 2024 (Room 343-344)
 event_url: https://ossna2024.sched.com/event/1aPwv/power-measurement-and-attribution-for-processes-and-hardware-devices-in-the-linux-kernel-aditya-manglik-eth-zurich
 location: Seattle, USA
-summary: Carbon attribution in Linux
+summary: Power measurement and attribution for processes and hardware devices in the Linux kernel
 abstract: >
   This talk highlights the recent developments in carbon measurement infrastructure within the Linux kernel’s power subsystem. Our primary goal is to accurately determine the energy consumption of hardware devices and software processes, and to link these measurements to carbon emissions. By revealing which devices and processes are driving a system’s overall energy consumption and emissions, users and developers can make more informed decisions regarding performance, power management, and environmental impact. We will discuss how multivariate regression models are used to estimate consumption at both process and device levels, explore privacy implications, and present the ongoing work needed to refine the models. This session offers a valuable opportunity to gather feedback from the open-source community, ensuring the infrastructure continues to evolve toward more reliable prediction and improved user control.
 
 date: 2024-04-17T16:00:00-07:00
+# Wednesday April 17, 2024, 4:00pm-4:40pm PDT
 all_day: true
 publishDate: '2024-04-17T00:00:00Z'
 authors:
