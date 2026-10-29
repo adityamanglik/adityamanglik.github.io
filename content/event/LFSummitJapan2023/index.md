@@ -10,7 +10,7 @@ abstract: Energy-Efficient Embedded Computing
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2023-12-02T13:55:00+02:00
+date: 2023-12-06T14:15:00+09:00
 # date_end: 2018-07-05T00:10:59+05:30
 all_day: true
 
