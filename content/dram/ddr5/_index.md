@@ -31,11 +31,11 @@ flowchart LR
     RW --> C[Column]
 ```
 
-## Timings documented
+## Timings
 
 | Timing | Page |
 |---|---|
-| `tRFC` — Refresh Cycle Time | [/dram/ddr5/trfc/](../trfc/) |
+| `tRFC` — Refresh Cycle Time | [tRFC](trfc/) |
 
 ## Sources
 

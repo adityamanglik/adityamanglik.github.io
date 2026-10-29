@@ -7,7 +7,7 @@ seo:
 date: '2026-10-29T00:00:00Z'
 ---
 
-# `tRFC` — Refresh Cycle Time ([DDR5](../))
+# `tRFC` — Refresh Cycle Time ([DDR5](/dram/ddr5/))
 
 ## What it means
 
@@ -52,7 +52,7 @@ After a `REFab` command, the memory controller must wait at least `tRFC` before 
 
 ## Cross-references
 
-- Technology: [DDR5](../)
+- Technology: [DDR5](/dram/ddr5/)
 - Planned related timings: `tREFI` (refresh interval), `tRP` (row precharge), `tRC` (row cycle)
 
 ## Sources
