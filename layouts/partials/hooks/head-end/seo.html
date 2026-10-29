@@ -1,0 +1,59 @@
+{{/*
+  SEO additions appended at the end of <head> via the theme's head-end hook.
+  Everything here is metadata / JSON-LD — no rendered page content changes.
+*/}}
+{{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+{{- $isArticle := and (not .IsHome) (in (slice "publication" "event" "project" "post" "blog") .Type) -}}
+
+{{/* Indexing directives. Keep the theme's noindex behaviour for private pages. */}}
+{{- if not .Params.private }}
+<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+{{- end }}
+
+{{/* Open Graph type (the theme omits og:type). */}}
+<meta property="og:type" content="{{ if $isArticle }}article{{ else }}website{{ end }}" />
+{{- if $isArticle }}
+  {{- if not .Date.IsZero }}
+<meta property="article:published_time" content="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" />
+  {{- end }}
+  {{- if not .Lastmod.IsZero }}
+<meta property="article:modified_time" content="{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}" />
+  {{- end }}
+<meta property="article:author" content="Aditya Manglik" />
+  {{- with .Section }}
+<meta property="article:section" content="{{ . | humanize }}" />
+  {{- end }}
+  {{- range .Params.tags }}
+<meta property="article:tag" content="{{ . }}" />
+  {{- end }}
+{{- end }}
+
+{{/* Entity/profile links: helps search engines consolidate identity. */}}
+<link rel="me" href="https://www.linkedin.com/in/adityamanglik/" />
+<link rel="me" href="https://scholar.google.com/citations?user=hEy3GXAAAAAJ&hl=en" />
+<link rel="me" href="https://github.com/adityamanglik" />
+<link rel="author" href="{{ printf "%s/" $base }}" />
+
+{{/* Discoverability of the LLM/agent index. */}}
+<link rel="alternate" type="text/plain" href="{{ "llms.txt" | absURL }}" title="LLM-readable site index" />
+
+{{/* BreadcrumbList for richer search results. */}}
+{{- if not .IsHome }}
+  {{- $crumbs := slice }}
+  {{- range $i, $p := .Ancestors.Reverse }}
+    {{- $crumbs = $crumbs | append (dict
+      "@type" "ListItem"
+      "position" (add $i 1)
+      "name" ($p.Title | default "Home")
+      "item" $p.Permalink
+    ) }}
+  {{- end }}
+  {{- $crumbs = $crumbs | append (dict
+    "@type" "ListItem"
+    "position" (add (len .Ancestors) 1)
+    "name" (.Title | default .LinkTitle)
+    "item" .Permalink
+  ) }}
+  {{- $bc := dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $crumbs }}
+<script type="application/ld+json">{{ $bc | jsonify | safeJS }}</script>
+{{- end }}

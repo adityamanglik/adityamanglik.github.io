@@ -1,0 +1,60 @@
+{{/*
+  Emits schema.org ScholarlyArticle for pages in the `publication` section.
+  Adds DOI identifiers and author entity references that the theme's generic
+  Article schema omits. Machine-readable only.
+*/}}
+{{- $page := .page -}}
+{{- $summary := .summary -}}
+{{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+{{- $personID := printf "%s/#person" $base -}}
+
+{{- $authors := slice -}}
+{{- range $page.Params.authors -}}
+  {{- if eq . "admin" -}}
+    {{- $authors = $authors | append (dict "@type" "Person" "@id" $personID "name" "Aditya Manglik") -}}
+  {{- else -}}
+    {{- $authors = $authors | append (dict "@type" "Person" "name" .) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $article := dict
+  "@context" "https://schema.org"
+  "@type" "ScholarlyArticle"
+  "@id" (printf "%s#article" $page.Permalink)
+  "mainEntityOfPage" (dict "@type" "WebPage" "@id" $page.Permalink)
+  "headline" $page.Title
+  "name" $page.Title
+  "url" $page.Permalink
+  "author" $authors
+  "datePublished" ($page.Date.Format "2006-01-02")
+-}}
+
+{{- if not $page.Lastmod.IsZero -}}
+  {{- $article = merge $article (dict "dateModified" ($page.Lastmod.Format "2006-01-02")) -}}
+{{- end -}}
+
+{{- with $summary -}}
+  {{- $article = merge $article (dict "description" (. | plainify)) -}}
+{{- end -}}
+
+{{- $venue := $page.Params.publication | default $page.Params.publication_short -}}
+{{- with $venue -}}
+  {{- $article = merge $article (dict "isPartOf" (dict "@type" "Periodical" "name" (. | plainify | markdownify | plainify))) -}}
+{{- end -}}
+
+{{- with $page.Params.doi -}}
+  {{- $article = merge $article (dict
+    "identifier" (dict "@type" "PropertyValue" "propertyID" "DOI" "value" .)
+    "sameAs" (printf "https://doi.org/%s" .)
+  ) -}}
+{{- end -}}
+
+{{- with $page.Params.tags -}}
+  {{- $article = merge $article (dict "keywords" .) -}}
+{{- end -}}
+
+{{- $image := ($page.Resources.ByType "image").GetMatch "*featured*" -}}
+{{- with $image -}}
+  {{- $article = merge $article (dict "image" .Permalink) -}}
+{{- end -}}
+<script type="application/ld+json">{{ $article | jsonify | safeJS }}</script>

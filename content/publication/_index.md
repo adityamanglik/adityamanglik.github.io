@@ -1,6 +1,9 @@
 ---
 title: Publications
 cms_exclude: true
+summary: Peer-reviewed publications on DRAM and memory systems, processing-in-memory, computer architecture security, and hardware energy and carbon emissions.
+seo:
+  title: 'Publications | Aditya Manglik'
 
 # View.
 view: citation

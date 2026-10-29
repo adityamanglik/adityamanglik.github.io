@@ -1,0 +1,36 @@
+{{/*
+  Overrides the theme's jsonld/main.html to:
+    1. emit a canonical Person entity on every page (theme omits Person entirely), and
+    2. use ScholarlyArticle (with DOI) for publications instead of generic Article.
+  Everything is JSON-LD in <head> — no visual change.
+*/}}
+{{ $page := .page }}
+{{ $summary := .summary }}
+{{ $site_type := site.Params.marketing.seo.site_type | default "Person" }}
+
+{{- if $page.IsHome -}}
+
+  {{ partialCached "jsonld/website.html" $page }}
+
+  {{ if ne $site_type "Person" }}
+    {{ partial "jsonld/business.html" $page }}
+  {{ end }}
+
+{{- end -}}
+
+{{/* Canonical Person entity, emitted on every page for a connected graph. */}}
+{{ partial "jsonld/person.html" $page }}
+
+{{- if $page.IsPage -}}
+
+  {{ if eq $page.Type "publication" }}
+    {{ partial "jsonld/scholarly-article.html" (dict "page" $page "summary" $summary) }}
+  {{ else if (eq $page.Type "blog") | or (eq $page.Type "project") }}
+    {{ partial "jsonld/article.html" (dict "page" $page "summary" $summary) }}
+  {{ end }}
+
+  {{ if eq $page.Type "event" }}
+    {{ partial "jsonld/event.html" (dict "page" $page "summary" $summary) }}
+  {{ end }}
+
+{{- end -}}

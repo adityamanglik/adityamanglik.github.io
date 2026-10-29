@@ -1,0 +1,18 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{/*
+  Clean sitemap: excludes taxonomy stub pages (/tags/, /publication_types/)
+  which carry no content value, and emits a real lastmod per URL.
+*/}}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {{ range .Data.Pages }}
+    {{- if and (not .Params.private) (ne .Kind "taxonomy") (ne .Kind "term") (ne .Kind "404") }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+      {{- if not .Lastmod.IsZero }}
+    <lastmod>{{ .Lastmod.Format "2006-01-02T15:04:05+00:00" | safeHTML }}</lastmod>
+      {{- end }}
+    <changefreq>{{ if .IsHome }}weekly{{ else if eq .Type "publication" }}yearly{{ else }}monthly{{ end }}</changefreq>
+  </url>
+    {{- end }}
+  {{ end }}
+</urlset>

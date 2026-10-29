@@ -1,0 +1,52 @@
+# robots.txt — machine-readable only.
+# Explicitly welcomes AI/LLM crawlers so the site can be indexed, cited and
+# surfaced by agents, while keeping thin taxonomy pages out of the index.
+
+User-agent: *
+Allow: /
+Disallow: /publication_types/
+Disallow: /tags/
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+Sitemap: {{ "sitemap.xml" | absURL }}

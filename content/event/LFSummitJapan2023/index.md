@@ -3,7 +3,6 @@ title: Estimating Energy Consumption of Embedded Platforms to Reduce the Carbon 
 event: Embedded IoT Summit, Open Source Summit Japan 2023
 location: Tokyo, Japan
 summary: Estimating energy consumption of embedded platforms to reduce the carbon footprint of processes
-url_video: https://www.youtube.com/watch?v=oxu-1Sx9_V0
 
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'

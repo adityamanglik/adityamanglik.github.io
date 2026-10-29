@@ -8,8 +8,6 @@ abstract: This talk aims to detail the recent developments in power tracking inf
 # summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
-url_video: https://www.youtube.com/watch?v=vOVlP9LjdCI
-
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: 2023-06-02T13:55:00+02:00

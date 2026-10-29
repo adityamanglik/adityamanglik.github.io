@@ -1,0 +1,47 @@
+{{/*
+  Emits a canonical schema.org Person entity, referenced site-wide by @id.
+  Machine-readable only: rendered inside <head> as JSON-LD, never visible.
+  Keep the canonical facts below in sync with content/authors/admin/_index.md.
+*/}}
+{{- $base := strings.TrimSuffix "/" site.BaseURL -}}
+{{- $id := printf "%s/#person" $base -}}
+
+{{- $name := "Aditya Manglik" -}}
+{{- $role := "Senior Engineer and Researcher" -}}
+{{- $interests := slice "Sustainable Systems" "Energy Efficiency" "DRAM and Memory Systems" "System Security" -}}
+{{- range first 1 (where (where site.Pages "Section" "authors") "Params.superuser" true) -}}
+  {{- with .Title }}{{ $name = . }}{{ end -}}
+  {{- with .Params.role }}{{ $role = . }}{{ end -}}
+  {{- with .Params.interests }}{{ $interests = . }}{{ end -}}
+{{- end -}}
+
+{{- $sameAs := slice
+  "https://www.linkedin.com/in/adityamanglik/"
+  "https://scholar.google.com/citations?user=hEy3GXAAAAAJ&hl=en"
+  "https://github.com/adityamanglik"
+  "https://champions.greensoftware.foundation/champions/aditya-manglik/"
+-}}
+
+{{- $person := dict
+  "@context" "https://schema.org"
+  "@type" "Person"
+  "@id" $id
+  "name" $name
+  "givenName" "Aditya"
+  "familyName" "Manglik"
+  "jobTitle" $role
+  "url" (printf "%s/" $base)
+  "description" "Senior Engineer at Qualcomm Technologies and researcher in sustainable computing, DRAM and memory systems, and operating-system energy attribution."
+  "worksFor" (dict
+    "@type" "Organization"
+    "name" "Qualcomm Technologies"
+    "url" "https://www.qualcomm.com/"
+  )
+  "alumniOf" (slice
+    (dict "@type" "CollegeOrUniversity" "name" "ETH Zürich" "url" "https://ethz.ch/en.html")
+    (dict "@type" "CollegeOrUniversity" "name" "Birla Institute of Technology and Science, Pilani" "url" "https://www.bits-pilani.ac.in/")
+  )
+  "knowsAbout" $interests
+  "sameAs" $sameAs
+-}}
+<script type="application/ld+json">{{ $person | jsonify | safeJS }}</script>

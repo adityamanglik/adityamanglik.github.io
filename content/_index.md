@@ -3,6 +3,12 @@
 title: ""
 date: 2022-10-24
 type: landing
+# Metadata only (used for the <meta name="description"> tag and feeds).
+# Does not render anywhere in the page body.
+summary: >-
+  Aditya Manglik is a Senior Engineer at Qualcomm Technologies and a researcher in computer architecture, DRAM and memory systems, energy efficiency, system security and sustainable computing. Co-host of The Week in Green Software (Green Software Foundation).
+seo:
+  title: 'Aditya Manglik — Sustainable Computing, DRAM & Memory Systems'
 
 design:
   # Default section spacing

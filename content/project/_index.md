@@ -2,6 +2,9 @@
 title: 'Projects'
 date: 2024-05-19
 type: landing
+summary: Systems and hardware projects spanning power attribution, processing-in-memory, and embedded platforms.
+seo:
+  title: 'Projects | Aditya Manglik'
 
 design:
   # Section spacing
