@@ -7,9 +7,26 @@ seo:
   title: 'DRAM Timing Reference Guide | Aditya Manglik'
 date: '2026-10-29T00:00:00Z'
 type: docs
+# ============================================================
+# VISIBILITY SWITCH (top-level)
+#   hide : bash scripts/dram-visibility.sh hide   (private — current state)
+#   show : bash scripts/dram-visibility.sh show   (public)
+#
+# While hidden, Hugo does not render any HTML for this section, does not
+# list it in any page collection (home, sitemap, RSS, search), and does
+# not publish its resources. Visitors get 404s for every /dram/ URL.
+# The values below are rewritten by the script; edit them by hand only
+# if you prefer (never/false = hidden, always/true = public).
+# ============================================================
+build:
+  list: never
+  publishResources: false
+  render: never
 cascade:
-  type: docs
-  licenses: CC BY 4.0
+  build:
+    list: never
+    publishResources: false
+    render: never
 ---
 
 A lookup reference for DRAM timing parameters, organized by technology generation.

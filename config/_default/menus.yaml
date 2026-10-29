@@ -13,9 +13,10 @@ main:
   - name: Talks
     url: 'event/'
     weight: 30
-  - name: DRAM Timings
-    url: 'dram/'
-    weight: 35
+# DRAM guide hidden — restore with: bash scripts/dram-visibility.sh show
+#   - name: DRAM Timings
+#     url: 'dram/'
+#     weight: 35
   - name: Projects # Projects combines multiple blog posts, nothing else
     url: 'project/'
     weight: 40

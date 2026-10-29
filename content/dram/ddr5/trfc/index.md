@@ -39,7 +39,7 @@ stateDiagram-v2
 
 After a `REFab` command, the memory controller must wait at least `tRFC` before sending `ACT` [[1](#ref-1)]:
 
-![DDR5 refresh lockout window (tRFC)](/dram/waves/ddr5-trfc.svg)
+![DDR5 refresh lockout window (tRFC)](ddr5-trfc.svg)
 
 ## Values by chip capacity
 
